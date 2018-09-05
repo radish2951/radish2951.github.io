@@ -10,3 +10,9 @@ h1, h2 {
 .sawarabi-gothic {
   font-family: "Sawarabi Gothic";
 }
+
+#canvas {
+	width: 500px;
+	height: 500px;
+	background: pink;
+}

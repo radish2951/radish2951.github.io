@@ -3,16 +3,8 @@ body {
     color: #ff5789;
 }
 
-h1, h2 {
-    text-align: center;
-}
-
-.sawarabi-gothic {
-  font-family: "Sawarabi Gothic";
-}
-
 #canvas {
-	width: 500px;
-	height: 500px;
+	width: 100vw;
+	height: 100vh;;
 	background: yellow;
 }

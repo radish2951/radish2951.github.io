@@ -16,7 +16,13 @@
 }
 
 img {
-  width: 50%;
+  width: 100%;
+  max-width: 1000px;
+}
+
+p {
+  width: 100%;
+  text-align: center;
 }
 
 ul, li {
@@ -29,12 +35,13 @@ li.work {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  margin: 50px 0;
 }
 
 .comments {
-  background: #ecb;
+  background: #fff4ef;
   width: 400px;
-  height: 400px;
+  height: 300px;
   position: relative;
 }
 

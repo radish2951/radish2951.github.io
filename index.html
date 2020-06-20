@@ -8,11 +8,12 @@
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 </head>
 <body>
-    <h1>Welcome!</h1>
+    <h1>Photo Exhibition</h1>
 
     <ul id="works">
         <li class="work" v-for="work in works">
             <img :src="work.path">
+            <p>{{ work.title }}</p>
             <div class="like-button" @click="updateLike(work)">{{ work.likes }}</div>
             <div class="comments">
             <ul>

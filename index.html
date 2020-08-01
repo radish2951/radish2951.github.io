@@ -49,6 +49,195 @@
 
   const db = firebase.firestore()
 </script>
+
+
+
+<!-- CSS -->
+<style>
+	.work {
+		text-align: center;
+		border-top: 1px solid gray;
+		height: 100vh;
+		padding: 100px 0;
+		box-sizing: border-box;
+	}
+	.detail {
+		height: 0;
+		transition: height 0.4s;
+		overflow: hidden;
+	}
+
+	.detail.appeared {
+		height: 100px;
+	}			
+
+
+	.horizontal-list {
+		overflow-x: auto;
+		white-space: nowrap;
+		-webkit-overflow-scrolling: touch;
+		scroll-snap-type: x mandatory;
+		-ms-scroll-snap-type: x mandatory;
+	}
+	.item {
+		/* 横スクロール用 */
+		display: inline-block;
+		width: 100%;
+		/* 見た目調整 */
+		height: 300px;
+		margin: 0;
+		scroll-snap-align: center;
+		-ms-scroll-snap-align: center;
+	}
+</style>
+
+
+
+<!-- Main HTML -->
+<form action="https://docs.google.com/forms/u/2/d/e/1FAIpQLSeT7qCu952zrbfdZbCqEbDFYGrNkgLe2WvHTK6Sqrk38x20pw/formResponse" id="google-form">
+
+
+	<div class="work">
+		<div>
+			<a href="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200710094343aa6.jpg" data-title="「単写真1」　SONY α7iii, ZEISS Loxia 2/35, 35mm, F8.0, 1/250s, ISO100　元乃隅稲成神社" data-lightbox="tan">
+				<img src="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200710094343aa6s.jpg" border="0">
+			</a>
+		</div>
+		<h2>単写真1</h2>
+		<div><a href="https://twitter.com/TokyotechPhoto" target="_blank">2年　Y.W.</a></div>
+		<div class="detail-opener">
+			<button type="button">▼ 作者詳細・コメント欄</button>
+			<div class="detail">
+				<div class="links">
+					<a href="https://twitter.com/TokyotechPhoto">Twitter</a>
+				</div>
+				<div class="comment">
+					<label>コメント</label>
+					<input type="text" name="entry.295099263" placeholder="コメント">
+					<button>送信</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="work">
+		<div>
+			<a href="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200630235631f7d.jpg" data-title="「単写真2」　SONY α7iii, SONY FE 100-400mm F4.5-5.6 GM OSS, 253mm, F5.6, 1/160, ISO400　白山神社" data-lightbox="tan">
+				<img src="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200630235631f7ds.jpg" border="0">
+			</a>
+		</div>
+		<h2>単写真2</h2>
+		<div><a href="https://www.instagram.com/tokyotechphoto/" target="_blank">2年　Y.W.</a></div>
+		<div class="detail-opener">
+			<button type="button">▼ 作者詳細・コメント欄</button>
+			<div class="detail">
+				<a href="https://twitter.com/TokyotechPhoto">Twitter</a>
+				<input type="image" onclick="location.href='https://www.instagram.com/tokyotechphoto/' " src="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/202007221147385fa.png" width="5%">
+				<label>コメント</label>
+				<input type="text" name="entry.400606575">
+			</div>
+		</div>
+	</div>
+
+
+	<div class="work">
+		<div align="center">
+			<a href="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/202006302356274da.jpg" data-title="「単写真3」　SONY α7iii, ZEISS Loxia 2/35, 35mm, F11.0, 8.0s, ISO100　東京スカイツリー" data-lightbox="tan"><img src="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/202006302356274das.jpg" border="0"></a>
+		</div>
+		<h2>単写真3</h2>
+		<div>2年　Y.W.</div>
+
+		<div class="detail-opener">
+			<button type="button">▼ 作者詳細・コメント欄</button>
+
+			<div class="detail">
+				<div align="center">
+					<input type="button" onclick="location.href='http://tokyotechphoto.blog77.fc2.com/'" value="公式ブログ">
+					<label for="email">コメント</label>
+					<input type="text" name="entry.1576025343">
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="work">
+		<img src="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/book.jpg" width="10%">
+		<div>横にスクロール＆拡大できます</div>
+
+
+		<ul class="horizontal-list">
+			<li class="item"><div align="center"><a href="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200710094343aa6.jpg" oncontextmenu="alert('無断で画像を保存しないでください');return false" data-title="「組写真1」　SONY α7iii, ZEISS Loxia 2/35, 35mm, F8.0, 1/250s, ISO100　元乃隅稲成神社" data-lightbox="kumi"><img src="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200710094343aa6s.jpg"></a></div></li>
+			<li class="item"><div align="center"><a href="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200701000719903.jpg" oncontextmenu="alert('無断で画像を保存しないでください');return false" data-title="「組写真2」　SONY α7iii, ZEISS Loxia 2/35, 35mm, F2.8, 1/6400s, ISO100　神楽坂" data-lightbox="kumi"><img src="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200701000719903s.jpg"></a></div></li>
+			<li class="item"><div align="center"><a href="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200701000121e16.jpg" oncontextmenu="alert('無断で画像を保存しないでください');return false" data-title="「組写真3」　SONY α7iii, ZEISS Loxia 2/35, 35mm, F8.0, 1/60s, ISO200　奥多摩湖" data-lightbox="kumi"><img src="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200701000121e16s.jpg"></a></div></li>
+			<li class="item"><a href="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200630235631f7d.jpg" oncontextmenu="alert('無断で画像を保存しないでください');return false" data-title="「組写真4」　SONY α7iii, SONY FE 100-400mm F4.5-5.6 GM OSS, 253mm, F5.6, 1/160, ISO400　白山神社" data-lightbox="kumi"><img src="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/20200630235631f7ds.jpg"></a></li>
+		</ul>
+
+
+		<h2>組写真＆ブック</h2>
+		<div>2年　Y.W.</div>
+
+		<div class="detail-opener">
+			<button type="button">▼ 作者詳細・コメント欄</button>
+			<div class="detail">
+				<div align="center">
+					<input type="image" onclick="location.href='https://www.instagram.com/tokyotechphoto/' " src="https://blog-imgs-142.fc2.com/t/o/k/tokyotechphoto/202007221147385fa.png" width="5%">
+					<label for="email">コメント</label>
+					<input type="text" name="entry.1156081655">
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div>このボタンを押せばコメントを送信できます</div>
+	<input type="submit" name="button" value="送信する">
+
+</form>
+
+
+
+
+<!-- JavaScript -->
+<script>
+	// 右クリック禁止
+	document.oncontextmenu = function() {
+		return false;
+	}
+
+	// 作者詳細・コメント欄の表示
+	var detailOpeners = document.getElementsByClassName("detail-opener");
+	for (var i = 0; i < detailOpeners.length; i++) {
+		var detailOpener = detailOpeners[i];
+		detailOpener.getElementsByTagName("button")[0].addEventListener("click", function(e) {
+			var detail = e.target.parentNode.querySelector(".detail");
+			if (detail) detail.classList.toggle("appeared");
+		})
+	}
+
+	var form = document.getElementById("google-form");
+
+	function postComment() {
+		var xhr = new XMLHttpRequest();
+		var fd = new FormData(form);
+		xhr.addEventListener("load", function(e) {
+			alert(e.target.responseText);
+		});
+		xhr.open("POST", "https://docs.google.com/forms/u/2/d/e/1FAIpQLSeT7qCu952zrbfdZbCqEbDFYGrNkgLe2WvHTK6Sqrk38x20pw/formResponse");
+		xhr.send();
+	}
+
+	form.addEventListener("submit", function(e) {
+		e.preventDefault();
+		postComment();
+	})
+
+
+
 </body>
 <script src="script.js"></script>
 </html>

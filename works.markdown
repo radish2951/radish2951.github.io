@@ -12,6 +12,10 @@ permalink: /works
     }
 </style>
 
+主に個人で制作してきた映像作品やビジュアルアートを公開しています。
+
+お仕事で携わった案件のほとんどは非公開ですが、お見せできるものもございますのでお気軽にお問い合わせください。
+
 ## 青春恋愛アドベンチャーゲーム「さくらいろプリズム」 (2021、制作中)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gik6n-hHaZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

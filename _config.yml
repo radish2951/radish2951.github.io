@@ -42,7 +42,8 @@ plugins:
   - jekyll-last-modified-at
 
 last-modified-at:
-    date-format: "%Y-%m-%d %H:%M:%S"
+    # date-format: "%Y-%m-%d %H:%M:%S"
+    date-format: "%Y-%m-%d-%H-%M-%S"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

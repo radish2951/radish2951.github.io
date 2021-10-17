@@ -1,6 +1,5 @@
 ---
 layout: default
-posts_limit: 2
 ---
 
 <div class="home">
@@ -13,9 +12,7 @@ posts_limit: 2
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- assign posts_ordered_modified = site.posts | sort: last_modified_at | reverse -%}
-      {%- assign posts_limit = page.posts_limit -%}
-      {%- for post in posts_ordered_modified limit:3 -%}
+      {%- for post in site.posts limit:3 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>

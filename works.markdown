@@ -4,14 +4,6 @@ title: Works
 permalink: /works
 ---
 
-<style>
-    iframe {
-        width: 100%;
-        height: auto;
-        aspect-ratio: 16 / 9;
-    }
-</style>
-
 主に個人で制作してきた映像作品やビジュアルアートを公開しています。
 
 お仕事で携わった案件のほとんどは非公開ですが、お見せできるものもございますのでお気軽にお問い合わせください。
@@ -20,13 +12,13 @@ permalink: /works
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gik6n-hHaZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://blooming-spectrum.com/sakurairo-prism/
+[青春恋愛アドベンチャーゲーム「さくらいろプリズム」公式サイト](https://blooming-spectrum.com/sakurairo-prism/)
 
 ## 短編アニメーション「ゆきのせい」 (2020)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NU3u_14G5bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://historia.co.jp/ue4petitcon-mv
+[UE4ぷちコン 大会サイト](https://historia.co.jp/ue4petitcon-mv)
 
 ## Cocono Color NoëL「印象派の水面」Music Video (2018)
 
@@ -36,24 +28,28 @@ https://historia.co.jp/ue4petitcon-mv
 
 ## Adobe MAX CHALLENGE (2017)
 
-https://blog.adobe.com/jp/publish/2017/11/28/general-adobe-max-japan-max-challenge-2017-finalist.html
+![Adobe MAX CHALLENGE 2017](/assets/images/adobe-max-2017.jpg)
+
+[MAX CHALLENGE 2017年 グランプリ作品発表！ #maxjapan](https://blog.adobe.com/jp/publish/2017/11/28/general-adobe-max-japan-max-challenge-2017-finalist.html)
 
 
 ## 未完成映画予告編大賞「カヅノ」 (2017)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zshJD2TnKuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://mi-can.com/review/1/
+[未完成映画予告編大賞 公式ウェブサイト](https://mi-can.com/review/1/)
 
 ## Adobe THE TAKE 10: MAKE A MASTERPIECE EDITION 「Where the world ends」 (2016)
 
-https://blog.adobe.com/jp/publish/2016/11/18/photo-adobe-stock-winners-of-the-take-10.html
+![Adobe MAX CHALLENGE 2016](/assets/images/adobe-max-2016.jpg)
+
+[日本からの受賞者に聞く！Adobe Stockでリクリエイトする「THE TAKE 10: MAKE A MASTERPIECE EDITION」](https://blog.adobe.com/jp/publish/2016/11/18/photo-adobe-stock-winners-of-the-take-10.html)
 
 ## 短編アニメーション「やさしい おもいで」 (2016)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yLXc27O42EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://www.sanukieigasai.com/story-project/story.php?storynum=25
+[投稿作品：やさしい おもいで | さぬき映画祭オフィシャルサイト](https://www.sanukieigasai.com/story-project/story.php?storynum=25)
 
 ## 岩井俊二のMOVIEラボ シーズン2「ストリート・ラブ」 (2016)
 
@@ -110,16 +106,3 @@ https://www.sanukieigasai.com/story-project/story.php?storynum=25
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4ucC2kSKoz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 黒板戦争
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

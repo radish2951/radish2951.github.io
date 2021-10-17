@@ -8,11 +8,6 @@ permalink: /profile
 
 ### 経歴
 
-<!-- style>
-    table, table td { border: none;  }
-    table { background: none; }
-</style -->
-
 | 1993 | 秋田県生まれ。幼い頃からテレビで「ターミネーター2」を何度も観ていました。
 | 2008 | ドラマ「ガリレオ」で湯川先生が数式を書きなぐるシーンのパロディを友人とともに制作。記念すべき映像作品1号。
 | 2009 | 秋田県立秋田高校 入学。弓道部を1週間で辞め、友人とともに映画愛好会を立ち上げました。
@@ -23,11 +18,13 @@ permalink: /profile
 | 2016 | 東京工業大学 生命理工学部 卒業。
 | 2017 | 映画（の予告編）制作に専念するため大学院を休学。
 | 2018 | 東京都内のゲーム会社に入社。
-| 2020 | 青春恋愛アドベンチャーゲーム「さくらいろプリズム」制作開始。
+| 2020 | 青春恋愛アドベンチャーゲーム「さくらいろプリズム」製作開始。
+| 2022 | プロデビュー！！！
 
 ### 受賞歴・メディア出演歴
 
 |  年  | 内容 | 作品名 |
+| ---- | --- | ----- |
 | 2009 | 映画甲子園2009 自由作品部門 企画部門審査員特別賞（奥田誠治賞） | 自追ひの儀 |
 | 2010 | 映画甲子園2010 自由作品部門 日本学生映画連盟賞、優秀企画賞、優秀撮影賞、優秀音楽賞、優秀編集賞、優秀監督 | 誰かアイツを止めてくれ |
 | 2011 | 珍メダルバカデミービデオ大賞（フジテレビ） グランプリ | こくせん 黒板戦争 |
@@ -40,22 +37,3 @@ permalink: /profile
 | 2016 | Adobe TAKE 10 CHALLENGE: MAKE A MASTERPIECE EDITION 世界トップ10入賞 | Where the world ends |
 | 2017 | 第1回未完成映画予告編大賞 審査員特別賞 | カヅノ |
  
-
-
-
-
- 
-OK.
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

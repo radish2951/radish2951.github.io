@@ -11,15 +11,15 @@ permalink: /contact
   method="POST"
 >
   <label>
-    <p>お名前 Your name</p>
+    <p>お名前 / Your name</p>
     <input type="name" name="name">
   </label>
   <label>
-    <p>メールアドレス E-mail</p>
+    <p>メールアドレス / E-mail</p>
     <input type="email" name="_replyto">
   </label>
   <label>
-    <p>本文 Message</p>
+    <p>本文 / Message</p>
     <textarea name="message" rows="20"></textarea>
   </label>
   <!-- your other form fields go here -->

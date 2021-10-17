@@ -1,3 +1,16 @@
+$a_color: rgb(226, 137, 156);
+$a_hover: rgb(3, 53, 189);
+
+a {
+  color: $a_color;
+  &:visited {
+    color: $a_color;
+  }
+  &:hover {
+    color: $a_hover;
+  }
+}
+
 h2 {
   margin-block-start: 2em;
 }

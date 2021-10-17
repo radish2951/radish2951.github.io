@@ -4,9 +4,11 @@ title: プロフィール / Profile
 permalink: /profile
 ---
 
-## 池田 大輝 (Ikeda Daiki)
+## 池田 大輝 / Ikeda Daiki
 
 映像作家、イラストレーター、シナリオライター、ゲームクリエイター、プログラマー。
+
+blooming spectrum（ブルーミング・スペクトル）名義でゲーム制作を進めています。
 
 お仕事募集しております。お気軽にお問い合わせください。
 
@@ -25,7 +27,6 @@ permalink: /profile
 | 2017 | 映画（の予告編）制作に専念するため大学院を休学。
 | 2018 | 東京都内のゲーム会社に入社。
 | 2020 | 青春恋愛アドベンチャーゲーム「さくらいろプリズム」製作開始。
-| 2022 | プロデビュー！！！
 
 ### 受賞歴・メディア出演歴
 
@@ -42,4 +43,18 @@ permalink: /profile
 | 2016 | 岩井俊二のMOVIEラボ シーズン2（Eテレ） 岩井俊二監督、堤幸彦監督、是枝裕和監督らと共演 | 渋谷にて<br>歩きスマホにご用心<br>ストリート・ラブ |
 | 2016 | Adobe TAKE 10 CHALLENGE: MAKE A MASTERPIECE EDITION 世界トップ10入賞 | Where the world ends |
 | 2017 | 第1回未完成映画予告編大賞 審査員特別賞 | カヅノ |
- 
+
+### スキル
+
+#### 映像・グラフィック系
+
+After Effects, Premiere Pro, Photoshop, Blender, Unreal Engine 4, Procreate
+
+#### プログラミング系
+
+Ruby, JavaScript, Vue.js, Python, PHP
+
+サーバサイドよりもフロントエンドが得意です。
+
+### その他
+

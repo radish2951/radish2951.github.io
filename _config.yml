@@ -33,11 +33,16 @@ github_username:  radish2951
 # Additional settings
 lang: ja
 show_excerpts: true
+timezone: Asia/Tokyo
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
+
+last-modified-at:
+    date-format: "%Y-%m-%d %H:%M:%S"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

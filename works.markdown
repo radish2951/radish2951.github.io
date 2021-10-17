@@ -49,7 +49,7 @@ permalink: /works
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yLXc27O42EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[投稿作品：やさしい おもいで | さぬき映画祭オフィシャルサイト](https://www.sanukieigasai.com/story-project/story.php?storynum=25)
+[投稿作品：やさしい おもいで さぬき映画祭オフィシャルサイト](https://www.sanukieigasai.com/story-project/story.php?storynum=25)
 
 ## 岩井俊二のMOVIEラボ シーズン2「ストリート・ラブ」 (2016)
 

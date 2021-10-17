@@ -1,29 +1,27 @@
 ---
+title: 日記 / Diary
 layout: default
-posts_limit: 2
+permalink: /diary
 ---
 
-<div class="home">
+<div class="diary">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- assign posts_ordered_modified = site.posts | sort: last_modified_at | reverse -%}
-      {%- assign posts_limit = page.posts_limit -%}
-      {%- for post in posts_ordered_modified limit:3 -%}
+      {%- assign posts_ordered_modified = site.posts | sort: last_modified_at -%}
+      {%- for post in posts_ordered_modified reversed -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
+        </h2>
         {%- if site.show_excerpts -%}
           {{ post.content }}
         {%- endif -%}
@@ -31,7 +29,6 @@ posts_limit: 2
       {%- endfor -%}
     </ul>
 
-    <p><a href="/diary">Read more...</a></p>
   {%- endif -%}
 
 </div>

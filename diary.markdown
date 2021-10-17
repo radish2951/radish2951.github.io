@@ -9,7 +9,6 @@ permalink: /diary
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}

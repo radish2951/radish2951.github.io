@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Works
+title: 作品 / Works
 permalink: /works
 ---
 
@@ -63,8 +63,9 @@ permalink: /works
 
 岩井俊二
 
-## テックちゃん同人誌 (2014)
+## テックちゃん合同誌 寄稿イラスト (2014)
 
+![テックちゃん合同誌 寄稿イラスト](/assets/images/tech-chan.jpg)
 テックちゃん
 
 ## 東京工業大学写真研究部 新歓ムービー「灰とダイヤモンド」 (2014)

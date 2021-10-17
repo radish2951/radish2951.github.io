@@ -8,3 +8,15 @@ iframe {
   aspect-ratio: 16 / 9;
   margin-block: 1em;
 }
+
+form input, form textarea, form button {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+form label {
+  display: block;
+  margin-block: 3em;
+}

@@ -16,11 +16,23 @@ h2 {
 }
 */
 
-iframe {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 16 / 9;
-  margin-block: 1em;
+.post-content {
+  iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    margin-block: 1em;
+  }
+
+  img + em {
+    display: block;
+    color: slategray;
+    text-align: center;
+  }
+
+  hr {
+    margin-block: 4em;
+  }
 }
 
 form input, form textarea, form button {

@@ -2,6 +2,7 @@
 layout: page
 title: お問い合わせ / Contact
 permalink: /contact
+published: false
 ---
 
 お仕事のご依頼、ご質問、作品の感想など、お気軽にご連絡ください。

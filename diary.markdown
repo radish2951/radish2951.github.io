@@ -2,6 +2,7 @@
 title: 日記 / Diary
 layout: default
 permalink: /diary
+published: false
 ---
 
 <div class="diary">

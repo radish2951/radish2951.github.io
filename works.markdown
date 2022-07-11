@@ -65,6 +65,17 @@ permalink: /works
 
 [MAX CHALLENGE 2017年 グランプリ作品発表！ #maxjapan](https://blog.adobe.com/jp/publish/2017/11/28/general-adobe-max-japan-max-challenge-2017-finalist.html)
 
+***
+
+## Lunv Loyal - Bad Girl (2017)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RgizREW9gZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
+## Lunv Loyal - Flavor (2017)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/659n6sNTII4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
@@ -74,7 +85,6 @@ permalink: /works
 
 [未完成映画予告編大賞 公式ウェブサイト](https://mi-can.com/review/1/)
 
-
 ***
 
 ## Adobe THE TAKE 10: MAKE A MASTERPIECE EDITION 「Where the world ends」 (2016)
@@ -82,7 +92,6 @@ permalink: /works
 ![Adobe MAX CHALLENGE 2016](/assets/images/adobe-max-2016.jpg)
 
 [日本からの受賞者に聞く！Adobe Stockでリクリエイトする「THE TAKE 10: MAKE A MASTERPIECE EDITION」](https://blog.adobe.com/jp/publish/2016/11/18/photo-adobe-stock-winners-of-the-take-10.html)
-
 
 ***
 
@@ -92,15 +101,11 @@ permalink: /works
 
 [投稿作品：やさしい おもいで さぬき映画祭オフィシャルサイト](https://www.sanukieigasai.com/story-project/story.php?storynum=25)
 
-
 ***
 
 ## 岩井俊二のMOVIEラボ シーズン2「ストリート・ラブ」 (2016)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nYM6jfYcwgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-岩井俊二
-
 
 ***
 
@@ -108,16 +113,11 @@ permalink: /works
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m-pF3w1Ypk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-岩井俊二
-
-
 ***
 
 ## テックちゃん合同誌 寄稿イラスト (2014)
 
 ![テックちゃん合同誌 寄稿イラスト](/assets/images/tech-chan.jpg)
-テックちゃん
-
 
 ***
 
@@ -128,8 +128,7 @@ permalink: /works
 大学時代に所属していた写真部の新入生歓迎ムービーです。日々の活動で撮りためた動画をドキュメンタリー風に構成しました。
 曲はももいろクローバーＺの「灰とダイヤモンド」という曲です。個人的にすごく好きで、使わせていただきました。
 
-ちなみに、写真部在籍中はこれ以外にもいろいろとムービーを作らせてもらっていました。
-
+写真部在籍中はこのほかにもいろいろとムービーを作らせてもらっていました。
 
 ***
 
@@ -139,8 +138,7 @@ permalink: /works
 
 Brain Online Video Award (BOVA)という広告映像のコンテスト向けに制作したストップモーションアニメです。
 タイトルの通り、今度の舞台はノートの上！棒人間がキャンパスノートの上を縦横無尽に暴れまわります。
-本作は受賞こそ逃したものの、コクヨ様とのタイアップ企画で本作とメイキング映像がARコンテンツとして期間限定公開されました。
-
+受賞こそ逃したものの、コクヨ様とのタイアップ企画で本作とメイキング映像がARコンテンツとして期間限定公開されました。
 
 ***
 
@@ -148,8 +146,7 @@ Brain Online Video Award (BOVA)という広告映像のコンテスト向けに�
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ju8nHwAipEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-前作「こくせん 黒板戦争」の続編です。前作よりもかなりスケールアップし、迫力のアクションがてんこ盛りです。（黒板関係ないじゃんとのご指摘も……）
-
+前作「こくせん 黒板戦争」の続編です。前作よりもかなりスケールアップし、迫力のアクションがてんこ盛りです。
 
 ***
 

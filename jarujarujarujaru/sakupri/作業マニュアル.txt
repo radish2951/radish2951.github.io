@@ -1,0 +1,11 @@
+＜大輝更新分のMyPCへのダウンロード＞
+Fetch origin⇒Pull origin
+
+＜Sato PC上の位置＞
+C:\Users\Sho\Documents\GitHub\sakupri\data\scenario
+
+＜内容の更新⇒反映＞
+C:\Users\Sho\Downloads\TyranoStudio_win_std_v110d\TyranoStudio_win_std_v110d　よりTyranoStudio.exeを起動
+内容を更新する
+GitHubのSummaryを記入したうえで,Commit
+

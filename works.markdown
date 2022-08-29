@@ -11,12 +11,27 @@ permalink: /works
 
 
 
-## 青春恋愛アドベンチャーゲーム「さくらいろプリズム」 (2021、制作中)
+## 青春恋愛アドベンチャーゲーム「さくらいろプリズム」 (2022)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gik6n-hHaZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b6SZ_R9NRN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cMX448WQE3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ayx0aRXQ-lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![キービジュアル](https://blooming-spectrum.com/sakurairo-prism/img/main_visual.jpg)
 *キービジュアル*
+
+![さくらいろプリズム 追加ビジュアル 葵](/assets/images/sakupri_aoi.jpg)
+*追加ビジュアル 葵バージョン*
+
+![さくらいろプリズム 追加ビジュアル 澪](/assets/images/sakupri_mio.jpg)
+*追加ビジュアル 澪バージョン*
+
+![さくらいろプリズム 追加ビジュアル 初音](/assets/images/sakupri_hatsune.jpg)
+*追加ビジュアル 初音バージョン*
 
 現在制作中の恋愛ゲームです。素敵なキャストの皆様にご参加いただきました！
 
@@ -27,9 +42,31 @@ permalink: /works
 オープニングムービーは特に気合いを入れて制作しました。半年ほどかけて、ほぼ一人でつくりました。ぜひご覧ください。
 
 ゲーム本編も完成に向けて鋭意制作中です。続報をお待ちください！
+2022年8月に完成、リリースしました！ぜひ遊んでいただけると嬉しいです！
 
 - [青春恋愛アドベンチャーゲーム「さくらいろプリズム」公式サイト](https://blooming-spectrum.com/sakurairo-prism/)
 - [blooming spectrum 公式Twitter](https://twitter.com/bloomingspectr)
+
+***
+
+## ストップモーションアニメ「こくせん 黒板戦争」 (2010)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4ucC2kSKoz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+高校時代につくったストップモーションアニメです。出演の二人と合わせて3人で1ヶ月ほどかけてつくりました。担当箇所は監督・撮影・編集・選曲などです。
+本当はもっと映画らしい映画をつくりたかったのですが、人数が少ないのと、当時は録音環境が整っていなかったため
+少人数かつセリフ無しで成立するストップモーションを採用しました。
+
+2022年現在、ありがたいことにYouTubeで100万回以上再生されています。本当にありがとうございます。
+この作品がきっかけでテレビなどのメディアに何度もお声がけいただきました。
+続編の「こくせん 黒板戦争2」とあわせて記念碑的な作品です。
+
+***
+## ストップモーションアニメ「こくせん 黒板戦争2」 (2011)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ju8nHwAipEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+前作「こくせん 黒板戦争」の続編です。前作よりもかなりスケールアップし、迫力のアクションがてんこ盛りです。
 
 ***
 
@@ -63,6 +100,8 @@ permalink: /works
 
 ![Adobe MAX CHALLENGE 2017](/assets/images/adobe-max-2017.jpg)
 
+Adobe MAX CHALLENGE 2017 でファイナリストに選出された作品です。
+
 [MAX CHALLENGE 2017年 グランプリ作品発表！ #maxjapan](https://blog.adobe.com/jp/publish/2017/11/28/general-adobe-max-japan-max-challenge-2017-finalist.html)
 
 ***
@@ -71,17 +110,25 @@ permalink: /works
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RgizREW9gZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ヒップホップアーティスト『Lunv Loyal』のミュージックビデオをディレクションしました。
+
 ***
 
 ## Lunv Loyal - Flavor (2017)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/659n6sNTII4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ヒップホップアーティスト『Lunv Loyal』のミュージックビデオをディレクションしました。
+
 ***
 
 ## 未完成映画予告編大賞「カヅノ」 (2017)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zshJD2TnKuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+オリジナル脚本の「予告編」だけで勝負する異色のコンテスト「未完成映画予告編大賞」にて審査員特別賞を受賞しました。
+
+冴えないオタク大学生のヒトミが、スマホに搭載された人工知能「テル」の隠された真実を追い求める物語です。
 
 [未完成映画予告編大賞 公式ウェブサイト](https://mi-can.com/review/1/)
 
@@ -91,6 +138,8 @@ permalink: /works
 
 ![Adobe MAX CHALLENGE 2016](/assets/images/adobe-max-2016.jpg)
 
+Adobe MAX CHALLENGE 2016 にて世界トップ10に選ばれた作品です。
+
 [日本からの受賞者に聞く！Adobe Stockでリクリエイトする「THE TAKE 10: MAKE A MASTERPIECE EDITION」](https://blog.adobe.com/jp/publish/2016/11/18/photo-adobe-stock-winners-of-the-take-10.html)
 
 ***
@@ -98,6 +147,9 @@ permalink: /works
 ## 短編アニメーション「やさしい おもいで」 (2016)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yLXc27O42EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+初めてつくったアニメーション作品です。新海誠監督「秒速5センチメートル」を観て衝撃を受け、すぐにペンタブを買って作り始めたのをよく覚えています。
+脚本はさぬき映画祭の応募作品よりお借りしました。
 
 [投稿作品：やさしい おもいで さぬき映画祭オフィシャルサイト](https://www.sanukieigasai.com/story-project/story.php?storynum=25)
 
@@ -107,17 +159,23 @@ permalink: /works
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nYM6jfYcwgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Eテレ「岩井俊二のMOVIEラボ シーズン2」にてオンエアされたショートフィルムです。映画監督の岩井俊二監督、是枝裕和監督に好評いただきました。
+
 ***
 
 ## 岩井俊二のMOVIEラボ「uPhone」 (2015)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m-pF3w1Ypk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Eテレ「岩井俊二のMOVIEラボ」にてオンエアされたショートフィルムです。映画監督の岩井俊二監督、庵野秀明監督、樋口真嗣監督に好評いただきました。
+
 ***
 
 ## テックちゃん合同誌 寄稿イラスト (2014)
 
 ![テックちゃん合同誌 寄稿イラスト](/assets/images/tech-chan.jpg)
+
+東工大のマスコットキャラクター「テックちゃん」の合同誌企画に寄稿したイラストです。
 
 ***
 
@@ -141,15 +199,6 @@ Brain Online Video Award (BOVA)という広告映像のコンテスト向けに�
 受賞こそ逃したものの、コクヨ様とのタイアップ企画で本作とメイキング映像がARコンテンツとして期間限定公開されました。
 
 ***
-
-## ストップモーションアニメ「こくせん 黒板戦争2」 (2011)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ju8nHwAipEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-前作「こくせん 黒板戦争」の続編です。前作よりもかなりスケールアップし、迫力のアクションがてんこ盛りです。
-
-***
-
 ## コメディ映画「誰かアイツを止めてくれ」 (2010)
 
 ### 予告編
@@ -169,17 +218,3 @@ Brain Online Video Award (BOVA)という広告映像のコンテスト向けに�
 先生を含め、多くの友人たちに参加いただきました。彼らの協力なしには完成し得なかったものです。
 
 担当は監督・撮影・編集・選曲・出演です。脚本は他のメンバーが書いてくれました。アンジャッシュのコントの影響が色濃く出ています。
-
-***
-
-## ストップモーションアニメ「こくせん 黒板戦争」 (2010)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4ucC2kSKoz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-高校時代に制作したストップモーションアニメです。出演の二人と合わせて3人で1ヶ月ほどかけてつくりました。担当箇所は監督・撮影・編集・選曲などです。
-本当はもっと映画らしい映画をつくりたかったのですが、人数が少ないのと、当時は録音環境が整っていなかったため、
-少人数かつセリフ無しで成立するストップモーションを採用しました。
-
-2021年現在、ありがたいことにYouTubeで100万回以上再生されています。本当にありがとうございます。
-この作品がきっかけでテレビなどのメディアに何度もお声がけいただきました。
-続編の「こくせん 黒板戦争2」とあわせて記念碑的な作品です。

@@ -2,6 +2,7 @@
 layout: page
 title: プロフィール / Profile
 permalink: /profile
+image: /assets/images/sakupri_mio.jpg
 ---
 
 ## 池田 大輝 / Ikeda Daiki

@@ -4,6 +4,7 @@
 
 layout: home
 list_title: 最近の日記
+image: /assets/images/sakupri_aoi.jpg
 ---
 
 

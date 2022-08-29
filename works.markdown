@@ -2,6 +2,7 @@
 layout: page
 title: 作品 / Works
 permalink: /works
+image: /assets/images/sakupri_hatsune.jpg
 ---
 
 主に個人で制作してきた映像作品やビジュアルアートを公開しています。

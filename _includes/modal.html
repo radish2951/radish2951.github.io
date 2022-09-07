@@ -1,0 +1,80 @@
+<div id="modal">
+  <img id="modal-img">
+</div>
+
+<style>
+  .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-block-end: 5px;
+  }
+
+  .image-gallery img {
+    flex-grow: 1;
+    object-fit: cover;
+    height: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+
+  .image-gallery img:hover {
+    opacity: 0.7;
+  }
+
+  /* The Modal (background) */
+#modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100000; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(255, 255, 255, 0.9); /* Black w/ opacity */
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.3s;
+}
+
+/* Modal Content (Image) */
+#modal-img {
+    display: block;
+    max-width: 98%;
+    max-height: 100%;
+    animation: zoom 0.3s;
+}
+
+@keyframes zoom {
+  from { transform: scale(0.3); }
+  to { transform: scale(1); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+</style>
+
+<script>
+  const modal = document.getElementById("modal")
+
+  const imgs = document.getElementsByClassName("img-gallery")
+  const modalImg = document.getElementById("modal-img")
+
+  for (let i = 0; i < imgs.length; i++) {
+    let img = imgs[i]
+    img.onclick = () => {
+      modal.style.display = "flex"
+      modalImg.src = img.src
+    }
+  }
+
+  modal.onclick = () => {
+    modal.style.display = "none"
+  }
+
+</script>

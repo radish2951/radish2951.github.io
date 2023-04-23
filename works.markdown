@@ -7,7 +7,7 @@ image: /assets/images/sakupri_hatsune.jpg
 
 ## 恋愛ファンタジーアドベンチャーゲーム『さくらいろテトラプリズム』 (2024)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cIh77i4QXsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cIh77i4QXsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 
 ![『さくらいろテトラプリズム』ティザービジュアル第2弾](https://blooming-spectrum.com/sakurairo-tetraprism/img/teaser_visual_2.jpg){:loading="lazy"}
 _『さくらいろテトラプリズム』ティザービジュアル第 2 弾_
@@ -30,13 +30,13 @@ _『さくらいろテトラプリズム』ティザービジュアル第 1 弾_
 
 ## 青春恋愛アドベンチャーゲーム『さくらいろプリズム』 (2022)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gik6n-hHaZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gik6n-hHaZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b6SZ_R9NRN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b6SZ_R9NRN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cMX448WQE3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cMX448WQE3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ayx0aRXQ-lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ayx0aRXQ-lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 ![キービジュアル](https://blooming-spectrum.com/sakurairo-prism/img/main_visual.jpg){:loading="lazy"}
 _『さくらいろプリズム』キービジュアル_
@@ -72,7 +72,7 @@ _『さくらいろプリズム』キービジュアル_
 
 ## ストップモーションアニメ『こくせん 黒板戦争』 (2010)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4ucC2kSKoz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ucC2kSKoz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 高校時代につくったストップモーションアニメです。出演の 2 人と一緒に 1 ヶ月ほどかけてつくりました。
 
@@ -98,7 +98,7 @@ _『さくらいろプリズム』キービジュアル_
 
 ## ストップモーションアニメ『こくせん 黒板戦争 2』 (2011)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ju8nHwAipEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ju8nHwAipEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 前作『こくせん 黒板戦争』の続編です。前作よりもかなりスケールアップし、迫力のアクションがてんこ盛りです。
 映画『マトリックス』『インセプション』の影響を多大に受けています。
@@ -118,7 +118,7 @@ _『さくらいろプリズム』キービジュアル_
 
 ## 短編アニメーション『ゆきのせい』 (2020)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NU3u_14G5bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NU3u_14G5bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 ゲームエンジンの`Unreal Engine 4`（UE4）を活用して制作した短編アニメーションです。1 週間ほどでつくりました。
 
@@ -141,7 +141,7 @@ UE4 はゲームエンジンでありながら、映画のようなシーンを�
 
 ## アニメーション MV『腸内細菌のうた』 (2018)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OgWMP4sGJ0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OgWMP4sGJ0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 大学院時代の研究室から依頼を受けて制作したアニメーション MV です。
 
@@ -154,7 +154,7 @@ UE4 はゲームエンジンでありながら、映画のようなシーンを�
 
 ## Cocono Color NoëL『印象派の水面』Music Video (2018)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0KL_AXy9WXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0KL_AXy9WXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 バンド「Cocono Color NoëL」の楽曲『印象派の水面』の MV を制作しました。
 
@@ -187,7 +187,7 @@ Adobe MAX CHALLENGE 2017 でファイナリストに選出された作品です�
 
 ## Lunv Loyal - Bad Girl (2017)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RgizREW9gZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgizREW9gZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 ヒップホップアーティスト Lunv Loyal の楽曲『Bad Girl』のミュージックビデオをディレクションしました。
 
@@ -208,7 +208,7 @@ Adobe MAX CHALLENGE 2017 でファイナリストに選出された作品です�
 
 ## Lunv Loyal - Flavor (2017)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/659n6sNTII4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/659n6sNTII4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 ヒップホップアーティスト Lunv Loyal の楽曲『Flavor』のミュージックビデオをディレクションしました。
 
@@ -229,7 +229,7 @@ Adobe MAX CHALLENGE 2017 でファイナリストに選出された作品です�
 
 ## 未完成映画予告編大賞『カヅノ』 (2017)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zshJD2TnKuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zshJD2TnKuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 オリジナル脚本の「予告編」だけで勝負する異色のコンテスト「未完成映画予告編大賞」にて審査員特別賞を受賞した作品です。
 
@@ -256,7 +256,7 @@ Adobe MAX CHALLENGE 2017 でファイナリストに選出された作品です�
 
 VFX のメイキングも併せてご覧ください。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2_gA7RLJsN8?start=178" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2_gA7RLJsN8?start=178" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 
 ## テックちゃん合同誌 寄稿イラスト (2017)
 
@@ -288,7 +288,7 @@ Adobe MAX CHALLENGE 2016 にて世界トップ 10 に選ばれた作品です。
 
 ## 短編アニメーション『やさしい おもいで』 (2016)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yLXc27O42EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yLXc27O42EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 人生で初めて本格的につくったアニメーション作品です。新海誠監督の『秒速 5 センチメートル』を観て衝撃を受け、すぐにペンタブを買って作り始めたのをよく覚えています。
 
@@ -313,7 +313,7 @@ Adobe MAX CHALLENGE 2016 にて世界トップ 10 に選ばれた作品です。
 
 ## 岩井俊二の MOVIE ラボ シーズン 2『ストリート・ラブ』 (2016)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nYM6jfYcwgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nYM6jfYcwgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアされたショートフィルムです。
 
@@ -336,7 +336,7 @@ E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアさ�
 
 ## 岩井俊二の MOVIE ラボ『uPhone』 (2015)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m-pF3w1Ypk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-pF3w1Ypk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアされたショートフィルムです。
 
@@ -357,7 +357,7 @@ E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアさ�
 
 ## 東京工業大学写真研究部 新歓ムービー『灰とダイヤモンド』 (2014)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hFD0_ID7Wp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hFD0_ID7Wp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 大学時代に所属していた写真部の新入生歓迎ムービーです。日々の活動で撮りためた動画をドキュメンタリー風に構成しました。
 
@@ -380,7 +380,7 @@ E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアさ�
 
 ## ストップモーションアニメ『コクヨノート戦争』 (2014)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mmMJl29V9FI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmMJl29V9FI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 「Brain Online Video Award (BOVA)」という広告映像のコンテストに向けて制作したストップモーションアニメです。
 
@@ -405,15 +405,15 @@ E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアさ�
 
 ### 予告編
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7hW9tbOiQXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7hW9tbOiQXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 ### 本編
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/acTImQw0UUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/acTImQw0UUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NHFDPY1O7rU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NHFDPY1O7rU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/13E9MR1yn1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/13E9MR1yn1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 映画甲子園 2010 に応募したコメディ映画です。
 

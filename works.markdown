@@ -9,10 +9,10 @@ image: /assets/images/sakupri_hatsune.jpg
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cIh77i4QXsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![『さくらいろテトラプリズム』ティザービジュアル第2弾](https://blooming-spectrum.com/sakurairo-tetraprism/img/teaser_visual_2.jpg)
+![『さくらいろテトラプリズム』ティザービジュアル第2弾](https://blooming-spectrum.com/sakurairo-tetraprism/img/teaser_visual_2.jpg){:loading="lazy"}
 _『さくらいろテトラプリズム』ティザービジュアル第 2 弾_
 
-![『さくらいろテトラプリズム』ティザービジュアル第1弾](https://blooming-spectrum.com/sakurairo-tetraprism/img/teaser_visual.jpg)
+![『さくらいろテトラプリズム』ティザービジュアル第1弾](https://blooming-spectrum.com/sakurairo-tetraprism/img/teaser_visual.jpg){:loading="lazy"}
 _『さくらいろテトラプリズム』ティザービジュアル第 1 弾_
 
 2024 年公開に向けて制作を進めている恋愛ゲーム『さくらいろテトラプリズム』です。『さくらいろプリズム』の続編にあたります。
@@ -38,7 +38,7 @@ _『さくらいろテトラプリズム』ティザービジュアル第 1 弾_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ayx0aRXQ-lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![キービジュアル](https://blooming-spectrum.com/sakurairo-prism/img/main_visual.jpg)
+![キービジュアル](https://blooming-spectrum.com/sakurairo-prism/img/main_visual.jpg){:loading="lazy"}
 _『さくらいろプリズム』キービジュアル_
 
 2020 年にゲーム制作サークル「blooming spectrum（ブルーミング・スペクトル）」を立ち上げて初めて制作した恋愛ゲームです。
@@ -50,15 +50,15 @@ _『さくらいろプリズム』キービジュアル_
 
 2022 年 8 月に完成、リリースしました！ぜひ遊んでいただけると嬉しいです！
 
-![『さくらいろプリズム』場面カット① 登校中の葵](/assets/images/sakupri_ss_01.jpg)
+![『さくらいろプリズム』場面カット① 登校中の葵](/assets/images/sakupri_ss_01.jpg){:loading="lazy"}
 
-![『さくらいろプリズム』場面カット② バスケの試合](/assets/images/sakupri_ss_02.jpg)
+![『さくらいろプリズム』場面カット② バスケの試合](/assets/images/sakupri_ss_02.jpg){:loading="lazy"}
 
-![『さくらいろプリズム』場面カット③ 勉強会](/assets/images/sakupri_ss_03.jpg)
+![『さくらいろプリズム』場面カット③ 勉強会](/assets/images/sakupri_ss_03.jpg){:loading="lazy"}
 
-![『さくらいろプリズム』場面カット④ みんなでお出かけ](/assets/images/sakupri_ss_04.jpg)
+![『さくらいろプリズム』場面カット④ みんなでお出かけ](/assets/images/sakupri_ss_04.jpg){:loading="lazy"}
 
-![『さくらいろプリズム』場面カット⑤ 葵の横顔](/assets/images/sakupri_ss_05.jpg)
+![『さくらいろプリズム』場面カット⑤ 葵の横顔](/assets/images/sakupri_ss_05.jpg){:loading="lazy"}
 
 - 担当パート：監督・イラスト・映像・スクリプト・プログラム・ほか
 - 使用ツール：Procreate, ティラノスクリプト, After Effects, Photoshop, Unreal Engine 4, GitHub など
@@ -83,15 +83,15 @@ _『さくらいろプリズム』キービジュアル_
 この作品がきっかけで何度もテレビなどに出演させていただきました（[メディア出演歴もご覧ください](/profile#%E5%8F%97%E8%B3%9E%E6%AD%B4%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%87%BA%E6%BC%94%E6%AD%B4)）。
 続編の『こくせん 黒板戦争 2』とあわせて、私のクリエイター人生における記念碑的な作品です。
 
-![『こくせん 黒板戦争』場面カット① 火を吹くピーちゃん](/assets/images/kokusen_01.jpg)
+![『こくせん 黒板戦争』場面カット① 火を吹くピーちゃん](/assets/images/kokusen_01.jpg){:loading="lazy"}
 
-![『こくせん 黒板戦争』場面カット② 対峙する二人](/assets/images/kokusen_02.jpg)
+![『こくせん 黒板戦争』場面カット② 対峙する二人](/assets/images/kokusen_02.jpg){:loading="lazy"}
 
-![『こくせん 黒板戦争』場面カット③ 空中に静止する二人](/assets/images/kokusen_03.jpg)
+![『こくせん 黒板戦争』場面カット③ 空中に静止する二人](/assets/images/kokusen_03.jpg){:loading="lazy"}
 
-![『こくせん 黒板戦争』場面カット④ 磁石が飛んできた](/assets/images/kokusen_04.jpg)
+![『こくせん 黒板戦争』場面カット④ 磁石が飛んできた](/assets/images/kokusen_04.jpg){:loading="lazy"}
 
-![『こくせん 黒板戦争』場面カット⑤ 黒板の中のバトル](/assets/images/kokusen_05.jpg)
+![『こくせん 黒板戦争』場面カット⑤ 黒板の中のバトル](/assets/images/kokusen_05.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集
 - 使用ツール：カシオ HIGH SPEED EXILIM EX-FC150, NicoVisualEffects, EDIUS Neo 2 Booster
@@ -103,15 +103,15 @@ _『さくらいろプリズム』キービジュアル_
 前作『こくせん 黒板戦争』の続編です。前作よりもかなりスケールアップし、迫力のアクションがてんこ盛りです。
 映画『マトリックス』『インセプション』の影響を多大に受けています。
 
-![『こくせん 黒板戦争 2』場面カット① チョークを取り出す棒人間](/assets/images/kokusen2_01.jpg)
+![『こくせん 黒板戦争 2』場面カット① チョークを取り出す棒人間](/assets/images/kokusen2_01.jpg){:loading="lazy"}
 
-![『こくせん 黒板戦争 2』場面カット② ほうきチェイス](/assets/images/kokusen2_02.jpg)
+![『こくせん 黒板戦争 2』場面カット② ほうきチェイス](/assets/images/kokusen2_02.jpg){:loading="lazy"}
 
-![『こくせん 黒板戦争 2』場面カット③ ほうきバトル](/assets/images/kokusen2_03.jpg)
+![『こくせん 黒板戦争 2』場面カット③ ほうきバトル](/assets/images/kokusen2_03.jpg){:loading="lazy"}
 
-![『こくせん 黒板戦争 2』場面カット④ 傾く校舎](/assets/images/kokusen2_04.jpg)
+![『こくせん 黒板戦争 2』場面カット④ 傾く校舎](/assets/images/kokusen2_04.jpg){:loading="lazy"}
 
-![『こくせん 黒板戦争 2』場面カット⑤ サメから逃げろ！](/assets/images/kokusen2_05.jpg)
+![『こくせん 黒板戦争 2』場面カット⑤ サメから逃げろ！](/assets/images/kokusen2_05.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集
 - 使用ツール：カシオ HIGH SPEED EXILIM EX-FC150, NicoVisualEffects, EDIUS Neo 2 Booster
@@ -124,17 +124,17 @@ _『さくらいろプリズム』キービジュアル_
 
 UE4 はゲームエンジンでありながら、映画のようなシーンを直感的につくることができます。この作品をきっかけに UE4 でのアニメーション制作に活路を見出し『[さくらいろプリズム](#青春恋愛アドベンチャーゲームさくらいろプリズム-2022)』の OP に繋がりました。
 
-![『ゆきのせい』場面カット① 雪の中を歩く](/assets/images/yukinosei_01.jpg)
+![『ゆきのせい』場面カット① 雪の中を歩く](/assets/images/yukinosei_01.jpg){:loading="lazy"}
 
-![『ゆきのせい』場面カット② 横顔](/assets/images/yukinosei_02.jpg)
+![『ゆきのせい』場面カット② 横顔](/assets/images/yukinosei_02.jpg){:loading="lazy"}
 
-![『ゆきのせい』場面カット③ 雪の森](/assets/images/yukinosei_03.jpg)
+![『ゆきのせい』場面カット③ 雪の森](/assets/images/yukinosei_03.jpg){:loading="lazy"}
 
-![『ゆきのせい』場面カット④ 朦朧](/assets/images/yukinosei_04.jpg)
+![『ゆきのせい』場面カット④ 朦朧](/assets/images/yukinosei_04.jpg){:loading="lazy"}
 
-![『ゆきのせい』場面カット⑤ 翌朝](/assets/images/yukinosei_05.jpg)
+![『ゆきのせい』場面カット⑤ 翌朝](/assets/images/yukinosei_05.jpg){:loading="lazy"}
 
-![『ゆきのせい』キャラクターイラスト](/assets/images/yukinosei_06.png)
+![『ゆきのせい』キャラクターイラスト](/assets/images/yukinosei_06.png){:loading="lazy"}
 
 - 担当パート：監督・シナリオ・イラスト・3DCG・編集
 - 使用ツール：Unreal Engine 4
@@ -162,22 +162,22 @@ UE4 はゲームエンジンでありながら、映画のようなシーンを�
 
 撮影は新宿御苑などで行いました。水中のシーンはバンドの皆さんに撮ってきてもらいました。
 
-![『印象派の水面』場面カット① スマホの画面に反射する部屋](/assets/images/suimen_01.jpg)
+![『印象派の水面』場面カット① スマホの画面に反射する部屋](/assets/images/suimen_01.jpg){:loading="lazy"}
 
-![『印象派の水面』場面カット② 明け方の新宿](/assets/images/suimen_02.jpg)
+![『印象派の水面』場面カット② 明け方の新宿](/assets/images/suimen_02.jpg){:loading="lazy"}
 
-![『印象派の水面』場面カット③ 雨に濡れる花](/assets/images/suimen_03.jpg)
+![『印象派の水面』場面カット③ 雨に濡れる花](/assets/images/suimen_03.jpg){:loading="lazy"}
 
-![『印象派の水面』場面カット④ 晴れ渡る空](/assets/images/suimen_04.jpg)
+![『印象派の水面』場面カット④ 晴れ渡る空](/assets/images/suimen_04.jpg){:loading="lazy"}
 
-![『印象派の水面』場面カット⑤ 印象派の水面](/assets/images/suimen_05.jpg)
+![『印象派の水面』場面カット⑤ 印象派の水面](/assets/images/suimen_05.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集
 - 使用ツール：Canon EOS 70D, Premiere Pro, After Effects
 
 ## Adobe MAX CHALLENGE (2017)
 
-![Adobe MAX CHALLENGE 2017](/assets/images/adobe-max-2017.jpg)
+![Adobe MAX CHALLENGE 2017](/assets/images/adobe-max-2017.jpg){:loading="lazy"}
 
 Adobe MAX CHALLENGE 2017 でファイナリストに選出された作品です。
 
@@ -193,15 +193,15 @@ Adobe MAX CHALLENGE 2017 でファイナリストに選出された作品です�
 
 映画のようなストーリー性を重視しつつ、東京の隅でひっそりと生きている様子を丁寧に描きました。
 
-![『Bad Gitl』場面カット① バーに現れた女性](/assets/images/badgirl_01.jpg)
+![『Bad Gitl』場面カット① バーに現れた女性](/assets/images/badgirl_01.jpg){:loading="lazy"}
 
-![『Bad Gitl』場面カット② 街のネオン](/assets/images/badgirl_02.jpg)
+![『Bad Gitl』場面カット② 街のネオン](/assets/images/badgirl_02.jpg){:loading="lazy"}
 
-![『Bad Gitl』場面カット③ ヤンキーにぶつかり難癖をつけられてしまい……](/assets/images/badgirl_03.jpg)
+![『Bad Gitl』場面カット③ ヤンキーにぶつかり難癖をつけられてしまい……](/assets/images/badgirl_03.jpg){:loading="lazy"}
 
-![『Bad Gitl』場面カット④ 渋谷の真ん中で泣いてしまう](/assets/images/badgirl_04.jpg)
+![『Bad Gitl』場面カット④ 渋谷の真ん中で泣いてしまう](/assets/images/badgirl_04.jpg){:loading="lazy"}
 
-![『Bad Gitl』場面カット⑤ ルナロイヤル](/assets/images/badgirl_05.jpg)
+![『Bad Gitl』場面カット⑤ ルナロイヤル](/assets/images/badgirl_05.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集
 - 使用ツール：Canon EOS 70D, Premiere Pro
@@ -214,15 +214,15 @@ Adobe MAX CHALLENGE 2017 でファイナリストに選出された作品です�
 
 夜の街にふわりと消えるような雰囲気を映像に掬い上げました。
 
-![『Flavor』場面カット① 東京タワー](/assets/images/flavor_01.jpg)
+![『Flavor』場面カット① 東京タワー](/assets/images/flavor_01.jpg){:loading="lazy"}
 
-![『Flavor』場面カット② タバコとヘッドライト](/assets/images/flavor_02.jpg)
+![『Flavor』場面カット② タバコとヘッドライト](/assets/images/flavor_02.jpg){:loading="lazy"}
 
-![『Flavor』場面カット③ ルナロイヤルと桜](/assets/images/flavor_03.jpg)
+![『Flavor』場面カット③ ルナロイヤルと桜](/assets/images/flavor_03.jpg){:loading="lazy"}
 
-![『Flavor』場面カット④ ミラーに映るルナロイヤル](/assets/images/flavor_04.jpg)
+![『Flavor』場面カット④ ミラーに映るルナロイヤル](/assets/images/flavor_04.jpg){:loading="lazy"}
 
-![『Flavor』場面カット⑤ 明け方の街](/assets/images/flavor_05.jpg)
+![『Flavor』場面カット⑤ 明け方の街](/assets/images/flavor_05.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集
 - 使用ツール：Canon EOS 70D, Premiere Pro
@@ -239,15 +239,15 @@ Adobe MAX CHALLENGE 2017 でファイナリストに選出された作品です�
 
 ちなみに撮影当時、私は大学院生でしたが撮影に専念するために休学しました。それくらいこの作品に賭けていたんですね。
 
-![『カヅノ』場面カット① おしゃれなカフェ](/assets/images/kazuno_01.jpg)
+![『カヅノ』場面カット① おしゃれなカフェ](/assets/images/kazuno_01.jpg){:loading="lazy"}
 
-![『カヅノ』場面カット② 崩れるグラフィック](/assets/images/kazuno_02.jpg)
+![『カヅノ』場面カット② 崩れるグラフィック](/assets/images/kazuno_02.jpg){:loading="lazy"}
 
-![『カヅノ』場面カット③ 主人公ヒトミ](/assets/images/kazuno_03.jpg)
+![『カヅノ』場面カット③ 主人公ヒトミ](/assets/images/kazuno_03.jpg){:loading="lazy"}
 
-![『カヅノ』場面カット④ 主人公ヒトミ](/assets/images/kazuno_04.jpg)
+![『カヅノ』場面カット④ 主人公ヒトミ](/assets/images/kazuno_04.jpg){:loading="lazy"}
 
-![『カヅノ』場面カット⑤ テルが見せるARイリュージョン](/assets/images/kazuno_05.jpg)
+![『カヅノ』場面カット⑤ テルが見せるARイリュージョン](/assets/images/kazuno_05.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集・VFX・出演
 - 使用ツール：Canon EOS 70D, Premiere Pro, After Effects, Cinema 4D
@@ -260,7 +260,7 @@ VFX のメイキングも併せてご覧ください。
 
 ## テックちゃん合同誌 寄稿イラスト (2017)
 
-![テックちゃん合同誌 寄稿イラスト](/assets/images/tech-chan.jpg)
+![テックちゃん合同誌 寄稿イラスト](/assets/images/tech-chan.jpg){:loading="lazy"}
 
 東工大のマスコットキャラクター「テックちゃん」の合同誌企画に寄稿したイラストです。
 
@@ -271,7 +271,7 @@ VFX のメイキングも併せてご覧ください。
 
 ## Adobe THE TAKE 10: MAKE A MASTERPIECE EDITION "Where the world ends" (2016)
 
-![Adobe MAX CHALLENGE 2016](/assets/images/adobe-max-2016.jpg)
+![Adobe MAX CHALLENGE 2016](/assets/images/adobe-max-2016.jpg){:loading="lazy"}
 
 Adobe MAX CHALLENGE 2016 にて世界トップ 10 に選ばれた作品です。
 
@@ -296,15 +296,15 @@ Adobe MAX CHALLENGE 2016 にて世界トップ 10 に選ばれた作品です。
 
 脚本はさぬき映画祭の応募作品よりお借りしました。
 
-![『やさしい おもいで』場面カット① カップうどんのダンボール](/assets/images/yasashii_01.jpg)
+![『やさしい おもいで』場面カット① カップうどんのダンボール](/assets/images/yasashii_01.jpg){:loading="lazy"}
 
-![『やさしい おもいで』場面カット② 黒板の落書き](/assets/images/yasashii_02.jpg)
+![『やさしい おもいで』場面カット② 黒板の落書き](/assets/images/yasashii_02.jpg){:loading="lazy"}
 
-![『やさしい おもいで』場面カット③ いつもの帰り道で](/assets/images/yasashii_03.jpg)
+![『やさしい おもいで』場面カット③ いつもの帰り道で](/assets/images/yasashii_03.jpg){:loading="lazy"}
 
-![『やさしい おもいで』場面カット④ 街灯の明かり](/assets/images/yasashii_04.jpg)
+![『やさしい おもいで』場面カット④ 街灯の明かり](/assets/images/yasashii_04.jpg){:loading="lazy"}
 
-![『やさしい おもいで』場面カット⑤ 「夜遅くに女の子が帰るんだから、違うこと言って」](/assets/images/yasashii_05.jpg)
+![『やさしい おもいで』場面カット⑤ 「夜遅くに女の子が帰るんだから、違うこと言って」](/assets/images/yasashii_05.jpg){:loading="lazy"}
 
 - 担当パート：作画・撮影・編集・監督（脚本以外全部）
 - 使用ツール：CLIP STUDIO PAINT, Photoshop, After Effects, Premiere Pro
@@ -321,15 +321,15 @@ E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアさ�
 
 映画監督の岩井俊二監督、是枝裕和監督に好評いただきました。
 
-![『ストリート・ラブ』場面カット① どこかで見たようなアイコン](/assets/images/street-love_01.jpg)
+![『ストリート・ラブ』場面カット① どこかで見たようなアイコン](/assets/images/street-love_01.jpg){:loading="lazy"}
 
-![『ストリート・ラブ』場面カット② 顔が見えない少女](/assets/images/street-love_02.jpg)
+![『ストリート・ラブ』場面カット② 顔が見えない少女](/assets/images/street-love_02.jpg){:loading="lazy"}
 
-![『ストリート・ラブ』場面カット③ 通り過ぎる電車](/assets/images/street-love_03.jpg)
+![『ストリート・ラブ』場面カット③ 通り過ぎる電車](/assets/images/street-love_03.jpg){:loading="lazy"}
 
-![『ストリート・ラブ』場面カット④ 踏切の向こうには誰もいなかった](/assets/images/street-love_04.jpg)
+![『ストリート・ラブ』場面カット④ 踏切の向こうには誰もいなかった](/assets/images/street-love_04.jpg){:loading="lazy"}
 
-![『ストリート・ラブ』場面カット⑤ りんご](/assets/images/street-love_05.jpg)
+![『ストリート・ラブ』場面カット⑤ りんご](/assets/images/street-love_05.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集・VFX
 - 使用ツール：iPhone, After Effects, Premiere Pro, Photoshop
@@ -346,11 +346,11 @@ E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアさ�
 
 映画監督の岩井俊二監督、庵野秀明監督、樋口真嗣監督に好評いただきました。当時はこのありがたみが全然わかっていなかった……。
 
-![『uPhone』場面カット① スマホの画面に閉じ込められた男](/assets/images/uphone_01.jpg)
+![『uPhone』場面カット① スマホの画面に閉じ込められた男](/assets/images/uphone_01.jpg){:loading="lazy"}
 
-![『uPhone』場面カット② 画面が傾くと世界も傾く](/assets/images/uphone_02.jpg)
+![『uPhone』場面カット② 画面が傾くと世界も傾く](/assets/images/uphone_02.jpg){:loading="lazy"}
 
-![『uPhone』場面カット③ 実は閉じ込められていたのは……](/assets/images/uphone_03.jpg)
+![『uPhone』場面カット③ 実は閉じ込められていたのは……](/assets/images/uphone_03.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集・出演
 - 使用ツール：iPhone, After Effects, Premiere Pro
@@ -365,15 +365,15 @@ E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアさ�
 
 写真部在籍中はこのほかにもいろいろとムービーを作らせてもらっていました（勝手に作っていたとも言う）。
 
-![『灰とダイヤモンド』場面カット① 夏合宿＠那須](/assets/images/photoclub_2014_01.jpg)
+![『灰とダイヤモンド』場面カット① 夏合宿＠那須](/assets/images/photoclub_2014_01.jpg){:loading="lazy"}
 
-![『灰とダイヤモンド』場面カット② 夏合宿＠那須](/assets/images/photoclub_2014_02.jpg)
+![『灰とダイヤモンド』場面カット② 夏合宿＠那須](/assets/images/photoclub_2014_02.jpg){:loading="lazy"}
 
-![『灰とダイヤモンド』場面カット③ 春合宿＠大阪](/assets/images/photoclub_2014_03.jpg)
+![『灰とダイヤモンド』場面カット③ 春合宿＠大阪](/assets/images/photoclub_2014_03.jpg){:loading="lazy"}
 
-![『灰とダイヤモンド』場面カット④ 撮影会＠浅草](/assets/images/photoclub_2014_04.jpg)
+![『灰とダイヤモンド』場面カット④ 撮影会＠浅草](/assets/images/photoclub_2014_04.jpg){:loading="lazy"}
 
-![『灰とダイヤモンド』場面カット⑤ 写真部の入り口のドア](/assets/images/photoclub_2014_05.jpg)
+![『灰とダイヤモンド』場面カット⑤ 写真部の入り口のドア](/assets/images/photoclub_2014_05.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集
 - 使用ツール：Canon EOS Kiss X5, Premiere Pro
@@ -388,15 +388,15 @@ E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアさ�
 
 受賞こそ逃したものの、コクヨ様とのタイアップ企画で本作とメイキング映像が AR コンテンツとして期間限定公開されました。
 
-![『コクヨノート戦争』場面カット① イントロ](/assets/images/kokuyo_01.jpg)
+![『コクヨノート戦争』場面カット① イントロ](/assets/images/kokuyo_01.jpg){:loading="lazy"}
 
-![『コクヨノート戦争』場面カット② ノートの中で暴れる棒人間](/assets/images/kokuyo_02.jpg)
+![『コクヨノート戦争』場面カット② ノートの中で暴れる棒人間](/assets/images/kokuyo_02.jpg){:loading="lazy"}
 
-![『コクヨノート戦争』場面カット③ ノートの中で暴れる棒人間](/assets/images/kokuyo_03.jpg)
+![『コクヨノート戦争』場面カット③ ノートの中で暴れる棒人間](/assets/images/kokuyo_03.jpg){:loading="lazy"}
 
-![『コクヨノート戦争』場面カット④ 閉じられるノートを必死に止める棒人間](/assets/images/kokuyo_04.jpg)
+![『コクヨノート戦争』場面カット④ 閉じられるノートを必死に止める棒人間](/assets/images/kokuyo_04.jpg){:loading="lazy"}
 
-![『コクヨノート戦争』場面カット⑤ こんなところに逃げていた棒人間](/assets/images/kokuyo_05.jpg)
+![『コクヨノート戦争』場面カット⑤ こんなところに逃げていた棒人間](/assets/images/kokuyo_05.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集
 - 使用ツール：Canon EOS Kiss X5, キャンパスノート
@@ -423,19 +423,19 @@ E テレ『岩井俊二の MOVIE ラボ シーズン 2』にてオンエアさ�
 
 脚本は映画同好会の他のメンバーが書いてくれました。アンジャッシュのコントの影響が色濃く出ています。
 
-![『誰かアイツを止めてくれ』場面カット① ブチぎれる生徒会長](/assets/images/dat_01.jpg)
+![『誰かアイツを止めてくれ』場面カット① ブチぎれる生徒会長](/assets/images/dat_01.jpg){:loading="lazy"}
 
-![『誰かアイツを止めてくれ』場面カット② 盛り上がる生徒会](/assets/images/dat_02.jpg)
+![『誰かアイツを止めてくれ』場面カット② 盛り上がる生徒会](/assets/images/dat_02.jpg){:loading="lazy"}
 
-![『誰かアイツを止めてくれ』場面カット③ 銃を構える白石さん](/assets/images/dat_03.jpg)
+![『誰かアイツを止めてくれ』場面カット③ 銃を構える白石さん](/assets/images/dat_03.jpg){:loading="lazy"}
 
-![『誰かアイツを止めてくれ』場面カット④ 落胆する生徒会長と副会長](/assets/images/dat_04.jpg)
+![『誰かアイツを止めてくれ』場面カット④ 落胆する生徒会長と副会長](/assets/images/dat_04.jpg){:loading="lazy"}
 
-![『誰かアイツを止めてくれ』場面カット⑤ 生徒会長に絡むヤンキー](/assets/images/dat_05.jpg)
+![『誰かアイツを止めてくれ』場面カット⑤ 生徒会長に絡むヤンキー](/assets/images/dat_05.jpg){:loading="lazy"}
 
-![『誰かアイツを止めてくれ』場面カット⑥ 生徒会室に立ち入ろうとするヤンキー](/assets/images/dat_06.jpg)
+![『誰かアイツを止めてくれ』場面カット⑥ 生徒会室に立ち入ろうとするヤンキー](/assets/images/dat_06.jpg){:loading="lazy"}
 
-![『誰かアイツを止めてくれ』場面カット⑦ 騒ぎを聞きつけて集まった生徒](/assets/images/dat_07.jpg)
+![『誰かアイツを止めてくれ』場面カット⑦ 騒ぎを聞きつけて集まった生徒](/assets/images/dat_07.jpg){:loading="lazy"}
 
 - 担当パート：監督・撮影・編集・出演
 - 使用ツール：ビデオカメラ, 自作ステディカム, Edius NEO 2 Booster

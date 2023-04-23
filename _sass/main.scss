@@ -10,11 +10,6 @@ a {
     color: $a_hover;
   }
 }
-/*
-h2 {
-  margin-block-start: 2em;
-}
-*/
 
 .post-content {
   iframe {
@@ -31,18 +26,7 @@ h2 {
   }
 
   hr {
-    margin-block: 4em;
+    margin-block: 3em;
+    width: 40%;
   }
-}
-
-form input, form textarea, form button {
-  width: 100%;
-  padding: 10px;
-  box-sizing: border-box;
-  border-radius: 8px;
-}
-
-form label {
-  display: block;
-  margin-block: 3em;
 }

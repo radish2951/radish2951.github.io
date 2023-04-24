@@ -2,7 +2,7 @@
 layout: page
 title: 作品 / Works
 permalink: /works
-image: /assets/images/sakupri_hatsune.jpg
+image: /assets/images/gallery/cg/cg062_3.jpg
 ---
 
 ## 恋愛ファンタジーアドベンチャーゲーム『さくらいろテトラプリズム』 (2024)

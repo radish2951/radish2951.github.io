@@ -2,7 +2,7 @@
 layout: page
 title: プロフィール / Profile
 permalink: /profile
-image: /assets/images/sakupri_mio.jpg
+image: /assets/images/gallery/cg/cg025_3.jpg
 ---
 
 ## 私について

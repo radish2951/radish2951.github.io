@@ -4,7 +4,7 @@
 
 layout: home
 title: 池田大輝 / Ikeda Daiki
-image: /assets/images/sakupri_aoi.jpg
+image: /assets/images/gallery/cg/cg013_2.jpg
 ---
 
 ## 最新作『さくらいろテトラプリズム』鋭意制作中！

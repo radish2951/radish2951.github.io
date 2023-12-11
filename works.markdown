@@ -7,7 +7,10 @@ image: /assets/images/gallery/cg/cg062_3.jpg
 
 ## 恋愛ファンタジーアドベンチャーゲーム『さくらいろテトラプリズム』 (2024)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cIh77i4QXsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FXHXW4dwljc?si=WYlqPNlaFU-i3jv2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![『さくらいろテトラプリズム』キービジュアル](https://blooming-spectrum.com/sakurairo-tetraprism/img/main_visual.jpg){:loading="lazy"}
+_『さくらいろテトラプリズム』キービジュアル_
 
 ![『さくらいろテトラプリズム』ティザービジュアル第2弾](https://blooming-spectrum.com/sakurairo-tetraprism/img/teaser_visual_2.jpg){:loading="lazy"}
 _『さくらいろテトラプリズム』ティザービジュアル第 2 弾_
@@ -17,10 +20,13 @@ _『さくらいろテトラプリズム』ティザービジュアル第 1 弾_
 
 2024 年公開に向けて制作を進めている恋愛ゲーム『さくらいろテトラプリズム』です。『[さくらいろプリズム](#青春恋愛アドベンチャーゲームさくらいろプリズム-2022)』の続編にあたります。
 
-前作でシナリオを担当した京がサークルを離れ、サークルメンバーとしては一人で制作を進めています。
+前作でシナリオを担当した京がチームを離れ、メンバーとしては一人で制作を進めています。
 が、いろいろな方に少しずつご協力いただきながらなんとかやれています。
 
-ご期待ください！
+フルボイス化に向けてクラウドファンディングを実施しています！
+何卒ご支援のほどよろしくお願いいたします。
+
+[恋愛ファンタジーアドベンチャーゲーム『さくらいろテトラプリズム』クラウドファンディング](https://soreosu.com/projects/sakurairo-tetraprism)
 
 - 担当パート：監督・シナリオ・イラスト・映像・ほか
 - 使用ツール：Procreate, After Effects, Photoshop, Unity, Unreal Engine 5 など

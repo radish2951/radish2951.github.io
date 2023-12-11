@@ -9,14 +9,14 @@ image: /assets/images/gallery/cg/cg025_3.jpg
 
 名前は、池田大輝。
 
-[blooming spectrum（ブルーミング・スペクトル）](https://blooming-spectrum.com/)というサークルでゲームをつくっています。
+[blooming spectrum（ブルーミング・スペクトル）](https://blooming-spectrum.com/)というチームでゲームをつくっています。
 
 映像をつくったり、絵を描いたり、シナリオを書いたり。
 
 物語をつくることが好きです。
 
-![『さくらいろテトラプリズム』ティザービジュアル第2弾](https://blooming-spectrum.com/sakurairo-tetraprism/img/teaser_visual_2.jpg){:loading="lazy"}
-_制作中の恋愛ゲーム『さくらいろテトラプリズム』_
+![『さくらいろテトラプリズム』キービジュアル](https://blooming-spectrum.com/sakurairo-tetraprism/img/main_visual.jpg){:loading="lazy"}
+_制作中の恋愛ゲーム『さくらいろテトラプリズム』キービジュアル_
 
 ---
 
@@ -35,14 +35,6 @@ _制作中の恋愛ゲーム『さくらいろテトラプリズム』_
 池田の活動を支援してくださる方向けにコンテンツを拡充予定です。
 
 [池田大輝の pixivFANBOX](https://radish2951.fanbox.cc/)
-
----
-
-## Skeb
-
-Skeb でリクエストをお受けしています。お気軽にどうぞ！
-
-[池田大輝の Skeb](https://skeb.jp/@radish2951)
 
 ---
 

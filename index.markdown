@@ -9,11 +9,11 @@ image: /assets/images/gallery/cg/cg013_2.jpg
 
 ## 最新作『さくらいろテトラプリズム』鋭意制作中！
 
-![『さくらいろテトラプリズム』ティザービジュアル第2弾](https://blooming-spectrum.com/sakurairo-tetraprism/img/teaser_visual_2.jpg){:loading="lazy"}
+![『さくらいろテトラプリズム』キービジュアル](https://blooming-spectrum.com/sakurairo-tetraprism/img/main_visual.jpg){:loading="lazy"}
 
-2024 年公開に向けて日々制作を進めています。ご期待ください！
+クラウドファンディング実施中です！ご支援のほどよろしくお願いします。
 
-[青春恋愛アドベンチャーゲーム『さくらいろテトラプリズム』](/works#恋愛ファンタジーアドベンチャーゲームさくらいろテトラプリズム-2024)
+[恋愛ファンタジーアドベンチャーゲーム『さくらいろテトラプリズム』クラウドファンディング](https://soreosu.com/projects/sakurairo-tetraprism)
 
 ---
 
@@ -29,14 +29,4 @@ image: /assets/images/gallery/cg/cg013_2.jpg
 
 日記や制作の裏話などを pixivFANBOX に投稿しています。
 
-池田の活動を支援してくださる方向けにコンテンツを拡充予定です。
-
 [池田大輝の pixivFANBOX](https://radish2951.fanbox.cc/)
-
----
-
-## Skeb
-
-Skeb でリクエストをお受けしています。お気軽にどうぞ！
-
-[池田大輝の Skeb](https://skeb.jp/@radish2951)

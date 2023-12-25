@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 池田大輝 / Ikeda Daiki
+title: 池田大輝 / Daiki Ikeda
 image: /assets/images/gallery/cg/cg013_2.jpg
 ---
 

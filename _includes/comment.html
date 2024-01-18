@@ -1,0 +1,18 @@
+<div class="pseudo-div"></div>
+<div class="character-comment">
+    <div class="character">
+        {% if include.character == "aoi" %}
+        {% assign name = "柏木葵" %}
+        {% elsif include.character == "mio" %}
+        {% assign name = "明石澪" %}
+        {% elsif include.character == "hatsune" %}
+        {% assign name = "須磨初音" %}
+        {% elsif include.character == "haruka" %}
+        {% assign name = "桐咲春花" %}
+        {% endif %}
+        <img src="assets/images/tetra_face_{{ include.character }}.png" alt="キャラクター名" class="character-image">
+        <div class="character-name">{{ name }}</div>    
+    </div>
+    <div class="character-text">{{ include.comment }}</div>
+</div>
+<div class="pseudo-div"></div>

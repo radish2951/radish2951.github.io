@@ -103,6 +103,7 @@ p:has(a.button) {
   margin-block: 12px;
   background: white;
   filter: drop-shadow(2px 2px 3px gray);
+  transform: translateZ(0);
 }
 
 .character {

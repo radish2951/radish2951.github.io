@@ -5,8 +5,6 @@ permalink: /gallery
 image: /assets/images/gallery/cg/cg055_1.jpg
 ---
 
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-
 恋愛ゲーム『[さくらいろプリズム](/works#青春恋愛アドベンチャーゲームさくらいろプリズム-2022)』で池田が描いたイラストの一部をご紹介します。
 
 ゲームではこれらの他、立ち絵や差分を含め200枚以上のイラストを池田がほぼ一人で描きました。

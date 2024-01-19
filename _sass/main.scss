@@ -57,7 +57,7 @@ h1 {
 
 h2 {
   font-size: 30px;
-  margin-block-start: 50px;
+  padding-block-start: 70px;
 }
 
 h3,
@@ -171,4 +171,47 @@ header.site-header {
   border: none;
   background: white;
   z-index: 100000;
+}
+
+
+
+main.page-content {
+  display: flex;
+  gap: 2%;
+  justify-content: center;
+  flex-wrap: wrap-reverse;
+
+  nav#toc {
+    max-width: 12%;
+
+    ul {
+      position: sticky;
+      top: 10vh;
+      margin: 0;
+      max-height: 90vh;
+      overflow-y: scroll;
+
+      li {
+        list-style-type: none;
+        margin-block-start: 12px;
+        font-size: 14px;
+
+        a {
+          color: gray;
+        }
+      }
+
+      li.current a {
+        color: $a_color;
+      }
+    }
+  }
+
+  .wrapper {
+    max-width: 800px;
+    width: 100%;
+    margin: 0;
+    padding: 2%;
+    box-sizing: border-box;
+  }
 }

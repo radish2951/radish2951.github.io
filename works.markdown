@@ -5,6 +5,8 @@ permalink: /works
 image: /assets/images/gallery/cg/cg062_3.jpg
 ---
 
+<script src="/assets/js/navigation.js"></script>
+
 ## 恋愛ファンタジーアドベンチャーゲーム『さくらいろテトラプリズム』 (2024、制作中)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FXHXW4dwljc?si=WYlqPNlaFU-i3jv2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

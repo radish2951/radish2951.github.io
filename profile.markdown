@@ -5,20 +5,37 @@ permalink: /profile
 image: /assets/images/gallery/cg/cg025_3.jpg
 ---
 
+<script src="/assets/js/navigation.js"></script>
+
 ## 池田大輝 / Daiki Ikeda
 
-![夢路空港](/assets/images/yumeji.jpg)
+![ジャルジャル後藤淳平さん（左）と池田（中央）とジャルジャル福徳秀介さん](/assets/images/yumeji.jpg)
+_ジャルジャル後藤淳平さん（左）と池田（中央）とジャルジャル福徳秀介さん_
 
-名前は、**池田大輝（いけだだいき）**です。
+### 簡単なプロフィール
+
+池田大輝（いけだ・だいき）。<br>
+秋田県秋田市出身。東京工業大学生命理工学部卒。
+
+日本ファルコム株式会社で映像の仕事をしたのち、現在はフリーで恋愛ゲームなどをつくっている。<br>
+シナリオ・イラスト・アニメーションなど多彩なスキルを活かして活動中。
+
+ジャンルの枠を超えて新しい「物語」を届けるために日々奮闘している。
+
+### もう少し詳しいプロフィール。
+
+名前は、**池田大輝（いけだ・だいき）**です。
 
 {% include comment.html character="hatsune" comment="ふぅん、面白い名前ね。" %}
-{% include comment.html character="aoi" comment="どこがですか？" %}
+{% include comment.html character="aoi" comment="そうですか？" %}
 
 [blooming spectrum（ブルーミング・スペクトル）](https://blooming-spectrum.com/)というチームでゲームをつくっています。
 
 {% include comment.html character="mio" comment="ぶるーみんぐ・すぺくとる、ってどういう意味ですか？" %}
 {% include comment.html character="haruka" comment="さあ。" %}
 {% include comment.html character="mio" comment="えっ！　そういうのを説明するのが私たちの役目なのでは！？" %}
+{% include comment.html character="haruka" comment="チームと言っても、今は一人みたいだけど。" %}
+{% include comment.html character="mio" comment="無視された！" %}
 
 シナリオを書いたり、
 
@@ -31,11 +48,12 @@ image: /assets/images/gallery/cg/cg025_3.jpg
 {% include comment.html character="mio" comment="ほえぇ、なんかすごいですね。" %}
 {% include comment.html character="hatsune" comment="器用貧乏ってやつね。" %}
 {% include comment.html character="aoi" comment="初音さん、かわいそうですよ！" %}
+{% include comment.html character="haruka" comment="シナリオもイラストもアニメも自分でつくってるんだって。すごいよね。" %}
 
 ![『さくらいろテトラプリズム』キービジュアル](assets/images/tetra_main_visual.jpg){:loading="lazy"}
 
 {% include comment.html character="hatsune" comment="どう見ても私が一番可愛いわね。" %}
-{% include comment.html character="mio" comment="一番奥にいるくせによく言いますよ。" %}
+{% include comment.html character="mio" comment="奥に追いやられてるくせによく言いますよ。" %}
 {% include comment.html character="haruka" comment="ま、センターは私だけど。" %}
 {% include comment.html character="aoi" comment="み、みんな、それくらいで！（私が一番可愛いと思うけど……）" %}
 
@@ -43,7 +61,7 @@ image: /assets/images/gallery/cg/cg025_3.jpg
 
 ---
 
-## 🌟「映画」と「ゲーム」の、その先へ。
+## 「映画」と「ゲーム」の、その先へ。
 
 高校時代に映画同好会を立ち上げ、大学を卒業するまで映画づくりに没頭していました。
 
@@ -58,7 +76,7 @@ image: /assets/images/gallery/cg/cg025_3.jpg
 
 ---
 
-## 📚池田大輝の経歴
+## 経歴
 
 ### 1993年
 秋田県に生まれる。テレビで映画『**ターミネーター2**』を何度も観る。液体金属ターミネーターT-1000が怖かった。
@@ -186,7 +204,7 @@ image: /assets/images/gallery/cg/cg025_3.jpg
 
 ---
 
-## 🏆池田大輝の受賞歴・メディア出演歴
+## 受賞歴・メディア出演歴
 
 ### 2009年
 #### **映画甲子園 2009** 自由作品部門
@@ -315,7 +333,7 @@ image: /assets/images/gallery/cg/cg025_3.jpg
 
 ---
 
-## 🎬池田大輝の好きな映画
+## 好きな映画
 
 ### ターミネーター2
 間違いなく人生で一番観た映画。すべてはここから始まりました。
@@ -344,7 +362,7 @@ image: /assets/images/gallery/cg/cg025_3.jpg
 
 ---
 
-## 🎮池田大輝の好きなゲーム
+## 好きなゲーム
 
 ### 軌跡シリーズ
 『イース』と並ぶファルコムの2大人気タイトルです。
@@ -388,7 +406,7 @@ image: /assets/images/gallery/cg/cg025_3.jpg
 
 ---
 
-## ✨好きな作家・尊敬する人
+## 好きな作家・尊敬する人
 
 ### 新海誠
 どれくらい好きかって言うと、新海さんが過去に在籍していたという理由だけでファルコムに入社したくらい好きです。
@@ -444,7 +462,7 @@ YouTubeのイラスト添削配信のおかげで絵がぐっと上達しまし�
 
 ---
 
-## 👬ジャルジャルコント出演
+## ジャルジャルコント出演
 ジャルジャルのコントに出演させていただきました！
 
 コントで共演するたびに、本当にたくさんのことを学ばせてもらっています。
@@ -483,6 +501,193 @@ YouTubeのイラスト添削配信のおかげで絵がぐっと上達しまし�
 {% include comment.html character="mio" comment="言えてますね。" %}
 {% include comment.html character="haruka" comment="東工大じゃなくてNSCに行けばよかったのに。" %}
 {% include comment.html character="aoi" comment="あはは……。" %}
+
+---
+
+## 持っている資格
+
+- 基本情報技術者
+- 応用情報技術者
+- 日商簿記検定2級
+
+{% include comment.html character="haruka" comment="基本情報と応用情報は国家資格なんだよ。" %}
+{% include comment.html character="mio" comment="え！？　すご！　どういう資格なんですか？" %}
+{% include comment.html character="hatsune" comment="簡単にいえば「ITのプロ」ね。" %}
+{% include comment.html character="mio" comment="ほええ、すごい。" %}
+{% include comment.html character="aoi" comment="簿記2級もなかなかのものだよね。連結会計とかあるし。" %}
+{% include comment.html character="mio" comment="すごいじゃないですか！　もっと資格をアピールしましょうよ！" %}
+{% include comment.html character="hatsune" comment="「資格さえあればできる仕事に興味はない」んですって。" %}
+{% include comment.html character="aoi" comment="う、うわあ……。" %}
+
+---
+
+## 趣味
+
+- 散歩
+- 音楽を聴くこと（主にゲーム音楽）
+- 家電量販店に行くこと
+- 書店に行くこと
+- スタバに行くこと
+- ガジェット（スマホ、パソコン、カメラ、その他家電）
+- 国内旅行（海外は行ったことがない）
+- ドライブ（車がないので、実家の車かレンタカーで）
+
+{% include comment.html character="aoi" comment="散歩しながら音楽を聴くのが好きなんだって。" %}
+{% include comment.html character="haruka" comment="音楽が聴けないから自転車には乗らないらしい。" %}
+{% include comment.html character="mio" comment="にゃるほど。" %}
+{% include comment.html character="haruka" comment="ファルコムの音楽ばかり聴いてるとか。" %}
+{% include comment.html character="hatsune" comment="ファルコムに人質でも取られてるのかと思うくらいファルコムの話が出てくるわね。" %}
+{% include comment.html character="aoi" comment="あ、「パソコンまわりの話は詳しいから困ったことがあればいつでも相談してね！」だそうです！" %}
+
+---
+
+## 特技
+
+- 碇ゲンドウのモノマネ
+- 池田秀一さんのモノマネ
+
+{% include comment.html character="hatsune" comment="これは、フリかしら？" %}
+{% include comment.html character="aoi" comment="やめておいた方がいいと思うけど……。" %}
+
+---
+
+## よくある質問
+
+### 仕事は受け付けているんですか？
+
+はい、**お仕事を募集しています**。ご依頼は[お問い合わせフォーム](/contact)までお願いします。
+
+納期や予算、内容を事前にご提示くださると助かります。
+
+### どんな仕事ができるんですか？
+
+**映像**は実写系からアニメ、CGまでひととおりできます。大勢のチームを率いた経験はないので、マネジメント的なことはできません。
+
+**イラスト**も描きます。このサイトにあるイラストはすべて池田が描いたものです。
+
+**シナリオ**も書きます。制作中の[『さくらいろテトラプリズム』](https://blooming-spectrum.com/sakurairo-tetraprism/)では約40万字のシナリオを執筆したほか、受託案件（現在未公開）のシナリオも執筆経験があります。
+
+**プログラミング**は、簡単なフロントエンド程度であればできます。このサイトや[『さくらいろプリズム』公式サイト](https://blooming-spectrum.com/sakurairo-prism/)、[『さくらいろテトラプリズム』公式サイト](https://blooming-spectrum.com/sakurairo-tetraprism/)は池田がつくっています。システムエンジニアの経験があるため、一般的なITの知見は持っているかと思われます。マネジメントはできません。
+
+### どんな仕事をやりたいのですか？
+
+- **オリジナルの劇場映画**をつくりたい（監督・脚本・絵コンテ・キャラクターデザインなど）。
+- **小説**を書きたい（1作目を執筆中）。
+- ゲームやアニメなどの**シナリオ**を書きたい。
+- ゲームの**オープニングムービー**をつくりたい。
+- 本の表紙イラストやゲームのパッケージイラストを描きたい。
+- その他、ゼロからキャラクターや物語をつくる仕事をしたい。
+- 趣旨のわからないコラボに呼ばれてみたい。
+- コントやお芝居、あとは対談なども機会があればやってみたい。
+- 体を張る系の仕事もやってみたい。
+
+### 逆にやりたくない仕事は？
+
+- 管理・マネジメントと呼ばれるもの全般（マネジメントを任されても責任は負いかねます）。
+
+### どうしてファルコムを辞めたんですか？
+
+ここには書きづらいので、直接聞いてもらえれば答えます。
+
+### どうして東工大に入ったんですか？
+
+前期入試で東大に落ちて、後期で出願していた東工大に受かったからです。
+
+この頃の東工大後期入試は生物系の学部しか選択肢がなく、生物に興味がない（というか習っていない）のに生物系の学部に入ることになりました。
+
+### イラストはどうやって描いてるんですか？
+
+iPad ProとProcreateというアプリで描いています。
+
+### イラストはどうやって勉強したんですか？
+
+吉田誠治先生のYouTube添削配信を見ながらひたすら絵を描いていました。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u71P8pS1p-I?si=a_OIuHaI4nbDBwy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### 文章はどうやって書いているんですか？
+
+Googleドキュメントで書くことが多いです。
+
+### 好きな食べ物は？
+
+子供が好きそうなものはだいたい好きです。
+
+### 苦手な食べ物は？
+
+漬物。
+
+### どこに住んでるんですか？
+
+今は千葉県です。
+
+### 家庭教師をお願いできますか？
+
+中学受験は経験がないので難しいですが、一般的な高校受験、大学受験であれば可能です。科目は英語、数学、物理、化学であれば大丈夫です。
+
+### 結婚していますか？
+
+いいえ。
+
+### お酒やタバコは？
+
+お酒はかなり弱いですが、飲み会は嫌いじゃないです。タバコは吸ったことがありません。
+
+### MBTIは？
+
+INFPです。診断によってINTPやENFPになることがあります。
+
+### 好きな色は？
+
+ピンク。
+
+### 朝型？　夜型？
+
+夜型です。
+
+### 好きなアニメは？
+
+アニメをあまり観ませんが、『冴えない彼女の育てかた』『とらドラ！』『青春ブタ野郎はバニーガール先輩の夢を見ない』『五等分の花嫁』『Wake Up, Girls!』などは好きです。
+
+### 森博嗣が好きなんですか？
+
+はい、最近ハマっています。小説も好きですがエッセィで頭がリセットされる感じも好きです。
+
+### 好きな小説は？
+
+『ドラゴンラージャ』は中学生の頃に読んでかなりハマりました。今も好きです。『数学ガール』も好きです。
+
+### 生まれ変わったら何になりたい？
+
+アイドル。
+
+### 池田を応援したいのですが、どうやって応援すればいいですか？
+
+ありがとうございます。Twitterで気軽に絡んでもらえるだけでも嬉しいです。あとは、プロデューサー的な相方を求めているので、私をプロデュースしてくれると大変ありがたいです。
+
+### ジャルジャルのコントに出てるってことは、役者さんですか？
+
+いいえ、役者さんではありません。ジャルジャルのネタサロン（ファンクラブのようなもの）に入会すると、ジャルジャルのコントに参加する権利がもらえます（一応、オーディション的なものがあります）。
+
+### 好きな新海誠作品は？
+
+『秒速5センチメートル』と『天気の子』が特に好きです。
+
+### 直接会って話がしたいのですが。
+
+ぜひ。東京近郊であれば大丈夫です。遠方の場合は交通費を支給してくれれば駆けつけます。
+
+### 池田大輝って本名ですか？
+
+ペンネームです。
+
+### どうしてゲームを作ろうと思ったんですか？
+
+ファルコムを辞めてシステムエンジニアに転職したところ、仕事があまりにもつまらなく「もう一度創作をやってみたい！」と思っていた時に『冴えない彼女の育てかた Fine』を映画館で観たのがきっかけでした。ちょうどコロナの影響でリモートワークが始まり、時間に余裕ができたことも追い風になりました。
+
+### ゲームって、作ろうと思って作れるものなんですか？
+
+ゲームと言ってもかなり幅があります。ゲームを簡単に作れるゲームもありますから、そういうのを使えば簡単に作れます。ある程度ちゃんと売り物にしたいのであれば、最低限のプログラミングやパソコンの知識とデザインの知識は必要になるかもしれません。
 
 ---
 

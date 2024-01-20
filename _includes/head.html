@@ -9,6 +9,11 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 
+  {% assign title = page.title | append: " | " | append: site.title %}
+
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="twitter:title" content="{{ title }}" />
+
   <!-- custom css -->
   <link rel="stylesheet" href="/assets/css/styles.css">
 

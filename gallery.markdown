@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 permalink: /gallery
-image: /assets/images/gallery/cg/cg055_1.jpg
+image: /assets/images/ogp_03.jpg
 ---
 
 恋愛ゲーム『[さくらいろプリズム](/works#青春恋愛アドベンチャーゲームさくらいろプリズム-2022)』で池田が描いたイラストの一部をご紹介します。

@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact
+image: /assets/images/ogp_04.jpg
 ---
 
 画面が遷移します。

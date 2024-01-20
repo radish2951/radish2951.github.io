@@ -2,7 +2,7 @@
 layout: page
 title: Works
 permalink: /works
-image: /assets/images/gallery/cg/cg062_3.jpg
+image: /assets/images/ogp_04.jpg
 ---
 
 <script src="/assets/js/navigation.js"></script>

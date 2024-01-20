@@ -2,7 +2,7 @@
 layout: page
 title: Profile
 permalink: /profile
-image: /assets/images/gallery/cg/cg025_3.jpg
+image: /assets/images/ogp_02.jpg
 ---
 
 <script src="/assets/js/navigation.js"></script>

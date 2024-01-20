@@ -4,7 +4,7 @@
 
 layout: page
 title: Home
-image: /assets/images/gallery/cg/cg013_2.jpg
+image: /assets/images/ogp_01.jpg
 ---
 
 # 池田大輝の公式サイトへようこそ！

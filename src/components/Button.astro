@@ -1,0 +1,28 @@
+---
+const { href, text } = Astro.props;
+---
+
+<p><a href={href}>{text}</a></p>
+
+<style>
+    a {
+        display: inline-block;
+        padding: 20px;
+        color: var(--button_color);
+        font-weight: bold;
+        border-radius: 10px;
+        box-sizing: border-box;
+        border: 1.5px solid var(--button_color);
+        transition: all 0.1s;
+
+        &:hover {
+            background: var(--button_color);
+            color: white;
+        }
+    }
+
+    p {
+        text-align: center;
+        margin-block: 30px;
+    }
+</style>

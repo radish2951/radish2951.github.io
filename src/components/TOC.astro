@@ -5,7 +5,7 @@ const { headings } = Astro.props;
 <nav id="toc">
     <ul>
         {
-            headings.map((h) => {
+            headings.map((h: { depth: number; slug: string; text: string }) => {
                 if (h.depth != 2) return;
                 return (
                     <li>

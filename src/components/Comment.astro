@@ -5,7 +5,7 @@ import ImageMio from "../images/tetra_face_mio.png";
 import ImageHatsune from "../images/tetra_face_hatsune.png";
 import ImageHaruka from "../images/tetra_face_haruka.png";
 
-const { character, comment } = Astro.props;
+const { character } = Astro.props;
 
 let src = ImageAoi;
 let characterName = "";
@@ -34,7 +34,7 @@ switch (character) {
         <Image src={src} alt={characterName} loading="eager" />
         <div class="character-name">{characterName}</div>
     </div>
-    <div class="character-text">{comment}</div>
+    <div class="character-text"><slot /></div>
 </div>
 
 <style>
@@ -46,8 +46,8 @@ switch (character) {
         width: 500px;
         max-width: 100%;
         box-sizing: border-box;
-        gap: 12px;
-        margin-block: 12px;
+        gap: 2%;
+        margin-block-start: 2%;
         background: white;
         border: 1px solid gray;
         transform: translateZ(0);

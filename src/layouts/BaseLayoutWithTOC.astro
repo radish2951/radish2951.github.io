@@ -1,10 +1,7 @@
 ---
+import TOC from "../components/TOC.astro";
 import "../styles/global.css";
-interface Props {
-	title: string;
-}
-
-const { title } = Astro.props;
+const { title, headings } = Astro.props;
 ---
 
 <!doctype html>
@@ -19,5 +16,6 @@ const { title } = Astro.props;
 	</head>
 	<body>
 		<main><slot /></main>
+		<TOC headings={headings} />
 	</body>
 </html>

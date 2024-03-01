@@ -1,14 +1,14 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Comment from "../components/Comment.astro";
-import Introduction from "../sections/Introduction.astro";
+import Welcome from "../sections/Welcome.astro";
 import Button from "../components/Button.astro";
 ---
 
 <BaseLayout title="top">
     <h1>池田大輝の公式サイトへようこそ！</h1>
 
-    <Introduction />
+    <Welcome />
 
     <h2>❄️最新作『さくらいろテトラプリズム』鋭意制作中❄️</h2>
     <p>
@@ -16,84 +16,74 @@ import Button from "../components/Button.astro";
         2024年公開に向けて一生懸命つくっています！ ご期待ください！
     </p>
 
-    <Comment
-        character="mio"
-        comment="というわけで、私たちが案内していきますね！"
-    />
-    <Comment
-        character="aoi"
-        comment="ま、待って、澪ちゃん。知らない人が見たら「いきなり何！？」ってびっくりしちゃうよ。"
-    />
-    <Comment
-        character="hatsune"
-        comment="私たちは『さくらいろテトラプリズム』っていうゲームのキャラクターよ。<b>二度と</b>説明しないからちゃんと覚えてよね。"
-    />
-    <Comment character="haruka" comment="手厳しい。" />
+    <Comment character="mio">
+        というわけで、私たちが案内していきますね！
+    </Comment>
+    <Comment character="aoi">
+        ま、待って、澪ちゃん。知らない人が見たら「いきなり何！？」ってびっくりしちゃうよ。
+    </Comment>
+    <Comment character="hatsune">
+        私たちは『さくらいろテトラプリズム』っていうゲームのキャラクターよ。二度と説明しないからちゃんと覚えてよね。
+    </Comment>
+
+    <Comment character="haruka">手厳しい。</Comment>
 
     <hr />
 
     <h2>メンバー紹介</h2>
 
-    <Comment
-        character="mio"
-        comment="メンバー紹介！　いえーい！　というわけで葵さんからどうぞ！"
-    />
-    <Comment
-        character="aoi"
-        comment="えっ！　えーと、柏木葵（かしわぎ・あおい）です！　趣味は料理です！　よろしくお願いします！"
-    />
-    <Comment
-        character="mio"
-        comment="じゃあ次はこの明石が！　明石澪（あかし・みお）です！　高校1年生です！　趣味は、うーん……いろいろ！　じゃあ次は初音さん！"
-    />
-    <Comment
-        character="hatsune"
-        comment="騒がしいわね。私は須磨初音（すま・はつね）。これ以上はプライベートだからノーコメントよ。"
-    />
-    <Comment
-        character="haruka"
-        comment="最後は私か。桐咲春花（きりさき・はるか）。アイドルやってるよ。応援してくれたらうれしい。"
-    />
-    <Comment
-        character="aoi"
-        comment="私たちが登場するゲーム『さくらいろプリズム』と『さくらいろテトラプリズム』をぜひよろしくお願いしますっ！"
-    />
-    <Comment
-        character="haruka"
-        comment="私たちのコメントは、右上の「ちゃちゃを入れない」ボタンから消せるよ。"
-    />
-    <Comment
-        character="hatsune"
-        comment="別にちゃちゃを入れてるつもりはないんだけど。"
-    />
-    <Comment
-        character="mio"
-        comment="そういうのを「ちゃちゃを入れる」って言うんですよ！"
-    />
+    <Comment character="mio">
+        メンバー紹介！　いえーい！　というわけで葵さんからどうぞ！
+    </Comment>
+    <Comment character="aoi">
+        えっ！　えーと、<b>柏木葵（かしわぎ・あおい）</b
+        >です！　趣味は料理です！　よろしくお願いします！
+    </Comment>
+    <Comment character="mio">
+        じゃあ次はこの明石が！　<b>明石澪（あかし・みお）</b
+        >です！　高校1年生です！　趣味は、うーん……いろいろ！　じゃあ次は初音さん！
+    </Comment>
+    <Comment character="hatsune">
+        騒がしいわね。私は<b>須磨初音（すま・はつね）</b
+        >。これ以上はプライベートだからノーコメントよ。
+    </Comment>
+    <Comment character="haruka">
+        最後は私か。<b>桐咲春花（きりさき・はるか）</b
+        >。アイドルやってるよ。応援してくれたらうれしい。
+    </Comment>
+    <Comment character="aoi">
+        私たちが登場するゲーム『さくらいろプリズム』と『さくらいろテトラプリズム』をぜひよろしくお願いしますっ！
+    </Comment>
+    <Comment character="haruka">
+        私たちのコメントは、右上の「ちゃちゃを入れない」ボタンから消せるよ。
+    </Comment>
+    <Comment character="hatsune">
+        別にちゃちゃを入れてるつもりはないんだけど。
+    </Comment>
+    <Comment character="mio">
+        そういうのを「ちゃちゃを入れる」って言うんですよ！
+    </Comment>
 
     <hr />
 
     <h2>このサイトについて</h2>
 
-    <Comment
-        character="aoi"
-        comment="「池田大輝って誰？」という人はまずはプロフィールページをご覧ください！"
-    />
-
+    <Comment character="aoi">
+        「池田大輝って誰？」という人はまずはプロフィールページをご覧ください！
+    </Comment>
     <Button href="/profile" text="池田大輝のプロフィール" />
 
-    <Comment character="mio" comment="監督さんの作品集はここから見れます！" />
+    <Comment character="mio">監督さんの作品集はここから見れます！</Comment>
 
     <Button href="/works" text="池田大輝の作品集" />
 
-    <Comment character="hatsune" comment="イラストも掲載してるのね。" />
+    <Comment character="hatsune">イラストも掲載してるのね。</Comment>
 
     <Button href="/gallery" text="池田大輝のイラスト集" />
 
-    <Comment
-        character="haruka"
-        comment="お仕事のオファーやメッセージも受け付けてるよ。"
-    />
+    <Comment character="haruka">
+        お仕事のオファーやメッセージも受け付けてるよ。
+    </Comment>
 
     <Button href="/contact" text="池田大輝のご連絡" />
 
@@ -113,8 +103,8 @@ import Button from "../components/Button.astro";
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"
     ></script>
 
-    <Comment character="hatsune" comment="Twitter？　エックスでしょ。" />
-    <Comment character="haruka" comment="まあ、わかるよ。" />
+    <Comment character="hatsune">Twitter？　エックスでしょ。</Comment>
+    <Comment character="haruka">まあ、わかるよ。</Comment>
 
     <hr />
 
@@ -125,10 +115,9 @@ import Button from "../components/Button.astro";
         創作に対する考えとか、いろいろ書いています📝
     </p>
 
-    <Comment
-        character="aoi"
-        comment="ブログみたいな感じだね。よかったら読んであげてくださいな。"
-    />
+    <Comment character="aoi">
+        ブログみたいな感じだね。よかったら読んであげてくださいな。
+    </Comment>
 
     <Button href="https://radish2951.fanbox.cc/" text="池田大輝のpixivFANBOX" />
 </BaseLayout>

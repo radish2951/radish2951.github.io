@@ -1,0 +1,48 @@
+---
+const { headings } = Astro.props;
+---
+
+<nav id="toc">
+    <ul>
+        {
+            headings.map((h) => {
+                if (h.depth != 2) return;
+                return (
+                    <li>
+                        <a href={Astro.url.pathname + "#" + h.slug}>{h.text}</a>
+                    </li>
+                );
+            })
+        }
+    </ul>
+</nav>
+
+<style>
+    nav {
+        width: 10%;
+        max-width: 200px;
+        flex: 1;
+    }
+    ul {
+        position: sticky;
+        top: 10vh;
+        margin: 0;
+        padding: 0;
+        max-height: 90vh;
+        overflow-y: scroll;
+    }
+    li {
+        list-style-type: none;
+        margin-block-start: 12px;
+        font-size: 14px;
+    }
+    a {
+        color: gray;
+        &:visited {
+            color: gray;
+        }
+    }
+    li.current a {
+        color: rgb(216, 39, 77);
+    }
+</style>

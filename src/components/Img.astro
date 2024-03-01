@@ -1,0 +1,41 @@
+---
+import type { ImageMetadata } from "astro";
+import { Image } from "astro:assets";
+
+interface Props {
+    src: string;
+    alt: string;
+    class: string;
+    caption?: string;
+}
+
+const { src, alt, class: className, caption } = Astro.props;
+const images = import.meta.glob<{ default: ImageMetadata }>(
+    "/src/images/*.{jpeg,jpg,png,gif}",
+);
+
+// ファイルがローカルに存在するかどうか
+const isLocal = !!images[src];
+---
+
+{
+    caption ? (
+        <figure>
+            {isLocal ? (
+                <Image src={images[src]()} alt={alt} class={className} />
+            ) : (
+                <Image src={src} alt={alt} class={className} inferSize={true} />
+            )}
+            <figcaption>{caption}</figcaption>
+        </figure>
+    ) : isLocal ? (
+        <Image src={images[src]()} alt={alt} class={className} />
+    ) : (
+        <Image src={src} alt={alt} class={className} inferSize={true} />
+    )
+}
+<style>
+    figure {
+        margin: 0;
+    }
+</style>

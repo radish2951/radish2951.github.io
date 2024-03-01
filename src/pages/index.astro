@@ -1,0 +1,134 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Comment from "../components/Comment.astro";
+import Introduction from "../sections/Introduction.astro";
+import Button from "../components/Button.astro";
+---
+
+<BaseLayout title="top">
+    <h1>池田大輝の公式サイトへようこそ！</h1>
+
+    <Introduction />
+
+    <h2>❄️最新作『さくらいろテトラプリズム』鋭意制作中❄️</h2>
+    <p>
+        恋愛ファンタジーアドベンチャーゲーム『さくらいろテトラプリズム』<br />
+        2024年公開に向けて一生懸命つくっています！ ご期待ください！
+    </p>
+
+    <Comment
+        character="mio"
+        comment="というわけで、私たちが案内していきますね！"
+    />
+    <Comment
+        character="aoi"
+        comment="ま、待って、澪ちゃん。知らない人が見たら「いきなり何！？」ってびっくりしちゃうよ。"
+    />
+    <Comment
+        character="hatsune"
+        comment="私たちは『さくらいろテトラプリズム』っていうゲームのキャラクターよ。<b>二度と</b>説明しないからちゃんと覚えてよね。"
+    />
+    <Comment character="haruka" comment="手厳しい。" />
+
+    <hr />
+
+    <h2>メンバー紹介</h2>
+
+    <Comment
+        character="mio"
+        comment="メンバー紹介！　いえーい！　というわけで葵さんからどうぞ！"
+    />
+    <Comment
+        character="aoi"
+        comment="えっ！　えーと、柏木葵（かしわぎ・あおい）です！　趣味は料理です！　よろしくお願いします！"
+    />
+    <Comment
+        character="mio"
+        comment="じゃあ次はこの明石が！　明石澪（あかし・みお）です！　高校1年生です！　趣味は、うーん……いろいろ！　じゃあ次は初音さん！"
+    />
+    <Comment
+        character="hatsune"
+        comment="騒がしいわね。私は須磨初音（すま・はつね）。これ以上はプライベートだからノーコメントよ。"
+    />
+    <Comment
+        character="haruka"
+        comment="最後は私か。桐咲春花（きりさき・はるか）。アイドルやってるよ。応援してくれたらうれしい。"
+    />
+    <Comment
+        character="aoi"
+        comment="私たちが登場するゲーム『さくらいろプリズム』と『さくらいろテトラプリズム』をぜひよろしくお願いしますっ！"
+    />
+    <Comment
+        character="haruka"
+        comment="私たちのコメントは、右上の「ちゃちゃを入れない」ボタンから消せるよ。"
+    />
+    <Comment
+        character="hatsune"
+        comment="別にちゃちゃを入れてるつもりはないんだけど。"
+    />
+    <Comment
+        character="mio"
+        comment="そういうのを「ちゃちゃを入れる」って言うんですよ！"
+    />
+
+    <hr />
+
+    <h2>このサイトについて</h2>
+
+    <Comment
+        character="aoi"
+        comment="「池田大輝って誰？」という人はまずはプロフィールページをご覧ください！"
+    />
+
+    <Button href="/profile" text="池田大輝のプロフィール" />
+
+    <Comment character="mio" comment="監督さんの作品集はここから見れます！" />
+
+    <Button href="/works" text="池田大輝の作品集" />
+
+    <Comment character="hatsune" comment="イラストも掲載してるのね。" />
+
+    <Button href="/gallery" text="池田大輝のイラスト集" />
+
+    <Comment
+        character="haruka"
+        comment="お仕事のオファーやメッセージも受け付けてるよ。"
+    />
+
+    <Button href="/contact" text="池田大輝のご連絡" />
+
+    <hr />
+
+    <h2>Twitter</h2>
+    <p>
+        日々の出来事などを気ままに書いています。お気軽にフォローしてください🐣
+    </p>
+
+    <a
+        class="twitter-timeline"
+        data-height="700"
+        href="https://twitter.com/radish2951?ref_src=twsrc%5Etfw"
+        >Tweets by radish2951</a
+    >
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"
+    ></script>
+
+    <Comment character="hatsune" comment="Twitter？　エックスでしょ。" />
+    <Comment character="haruka" comment="まあ、わかるよ。" />
+
+    <hr />
+
+    <h2>pixivFANBOX</h2>
+
+    <p>
+        制作にまつわるあれこれをpixivFANBOXに投稿しています。<br />
+        創作に対する考えとか、いろいろ書いています📝
+    </p>
+
+    <Comment
+        character="aoi"
+        comment="ブログみたいな感じだね。よかったら読んであげてくださいな。"
+    />
+
+    <Button href="https://radish2951.fanbox.cc/" text="池田大輝のpixivFANBOX" />
+</BaseLayout>

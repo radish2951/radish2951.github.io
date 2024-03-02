@@ -1,0 +1,54 @@
+---
+import type { ImageMetadata } from "astro";
+import { Image } from "astro:assets";
+
+const { folder } = Astro.props;
+const path = "../images/gallery/" + folder.split("/").join() + "/*.{jpg,JPG}";
+
+const images = import.meta.glob<{ default: ImageMetadata }>(
+    "../images/gallery/*/*.{jpg,JPG}",
+);
+---
+
+<div class="image-gallery">
+    {
+        Object.keys(images).map((src) => {
+            if (src.split("/").reverse()[1].includes(folder)) {
+                return <Image src={images[src]()} alt="" class="img-gallery" />;
+            }
+        })
+    }
+</div>
+
+<style>
+    .image-gallery {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 5px;
+        margin-block-end: 5px;
+        img {
+            width: 100%;
+            height: auto;
+            aspect-ratio: 1;
+            object-fit: cover;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .image-gallery {
+            display: flex;
+            flex-wrap: wrap;
+            img {
+                height: auto;
+                aspect-ratio: unset;
+            }
+        }
+    }
+
+    .image-gallery img:hover {
+        opacity: 0.7;
+    }
+</style>

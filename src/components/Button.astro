@@ -6,17 +6,18 @@ const { href, text } = Astro.props;
 
 <style>
     a {
+        text-decoration: none;
         display: inline-block;
         padding: 20px;
-        color: var(--button_color);
+        color: var(--button-color);
         font-weight: bold;
         border-radius: 10px;
         box-sizing: border-box;
-        border: 1.5px solid var(--button_color);
+        border: 1.5px solid var(--button-color);
         transition: all 0.1s;
 
         &:hover {
-            background: var(--button_color);
+            background: var(--button-color);
             color: white;
         }
     }

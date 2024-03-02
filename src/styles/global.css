@@ -1,11 +1,14 @@
 :root {
-    --a_color: rgb(216, 39, 77);
-    --a_hover: rgb(39, 183, 255);
-    --button_color: #000000;
-
+    --a-color: rgb(216, 39, 77);
+    --a-hover: rgb(39, 183, 255);
+    --button-color: #000000;
+    --color: black;
+    --width: 1000px;
 }
 
 body {
+    font-family: "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Osaka", "MS PGothic", "ＭＳ Ｐゴシック", sans-serif;
+    color: var(--color);
     margin: 0;
     padding: 0;
   display: flex;
@@ -15,7 +18,7 @@ body {
 }
 
 main {
-  max-width: 800px;
+  max-width: var(--width);
   width: 100%;
   margin: 0;
   padding: 2%;
@@ -27,14 +30,14 @@ main > * {
 }
 
 a {
-  color: var(--a_color);
+  color: var(--a-color);
 
   &:visited {
-    color: var(--a_color);
+    color: var(--a-color);
   }
 
   &:hover {
-    color: var(--a_hover);
+    color: var(--a-hover);
   }
 }
 

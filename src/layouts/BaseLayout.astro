@@ -2,13 +2,10 @@
 import Menu from "../components/Menu.astro";
 import "../styles/global.css";
 
-const { title, frontmatter } = Astro.props;
-const pageName = title || frontmatter.title;
+const { title } = Astro.props || Astro.props.frontmatter;
 const siteName = "池田大輝オフィシャルウェブサイト";
 const pageTitle =
-	pageName && Astro.url.pathname != "/"
-		? pageName + " | " + siteName
-		: siteName;
+	title && Astro.url.pathname != "/" ? title + " | " + siteName : siteName;
 ---
 
 <!doctype html>
@@ -24,7 +21,7 @@ const pageTitle =
 	<body>
 		<Menu />
 		<main>
-			{pageName && <h1>{pageName}</h1>}
+			{title && <h1>{title}</h1>}
 			<slot />
 		</main>
 		<script>

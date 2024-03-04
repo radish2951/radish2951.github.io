@@ -1,14 +1,17 @@
-document.getElementById("hamburger").addEventListener("click", e => {
-    const menu = document.getElementById("navbar-links");
-    const hamburger = e.target;
-    toggleMenu(menu, hamburger);
-});
-
-document.getElementById("navbar-links").addEventListener("click", e => {
-    const menu = e.target;
-    const hamburger = document.getElementById("hamburger");
-    toggleMenu(menu, hamburger);
-});
+function initMenu() {
+    console.log("initmenu");
+    document.getElementById("hamburger").addEventListener("click", e => {
+        const menu = document.getElementById("navbar-links");
+        const hamburger = e.target;
+        toggleMenu(menu, hamburger);
+    });
+    
+    document.getElementById("navbar-links").addEventListener("click", e => {
+        const menu = e.target;
+        const hamburger = document.getElementById("hamburger");
+        toggleMenu(menu, hamburger);
+    });    
+}
 
 function toggleMenu(menu, hamburger) {
     if (menu.classList.contains("hidden")) {
@@ -21,3 +24,6 @@ function toggleMenu(menu, hamburger) {
         hamburger.classList.remove("clicked");
     }
 }
+
+//initMenu();
+document.addEventListener("astro:page-load", initMenu);

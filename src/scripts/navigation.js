@@ -1,6 +1,8 @@
-document.addEventListener("DOMContentLoaded", e => {
+function initNavigation() {
     const ul = document.querySelector("nav#toc ul");
     const headings = document.querySelectorAll("main h2");
+
+    if (!ul) return;
    
     let currentIndex = 0;
     ul.children[currentIndex].classList.add("current");
@@ -28,4 +30,6 @@ document.addEventListener("DOMContentLoaded", e => {
             ul.children[currentIndex].classList.add("current");
         }
     });
-});
+};
+
+document.addEventListener("astro:page-load", initNavigation);

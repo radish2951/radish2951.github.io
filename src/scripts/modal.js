@@ -1,6 +1,9 @@
+function initModal() {
 const modal = document.getElementById("modal");
 const imgs = document.getElementsByClassName("img-gallery");
 const modalImg = document.getElementById("modal-img");
+
+console.log("hello");
 
 for (let i = 0; i < imgs.length; i++) {
     const img = imgs[i];
@@ -10,6 +13,9 @@ for (let i = 0; i < imgs.length; i++) {
     };
 }
 
-modal.onclick = () => {
+modal?.addEventListener("click", () => {
     modal.style.display = "none";
+});
 };
+
+document.addEventListener("astro:page-load", initModal);

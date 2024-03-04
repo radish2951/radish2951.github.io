@@ -1,4 +1,5 @@
 ---
+import { ViewTransitions } from "astro:transitions";
 import Menu from "../components/Menu.astro";
 import "../styles/global.css";
 
@@ -17,6 +18,7 @@ const pageTitle =
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{pageTitle}</title>
+		<ViewTransitions />
 	</head>
 	<body>
 		<Menu />

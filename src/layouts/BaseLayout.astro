@@ -1,19 +1,20 @@
 ---
-import { ViewTransitions } from "astro:transitions";
+import { ViewTransitions, fade } from "astro:transitions";
 import Menu from "../components/Menu.astro";
+import TOC from "../components/TOC.astro";
 import "../styles/global.css";
-
 const { title, frontmatter, headings } = Astro.props;
-const pageName = title || frontmatter.title;
+const pageName = title || frontmatter?.title;
 const siteName = "池田大輝オフィシャルウェブサイト";
 const pageTitle =
 	pageName && Astro.url.pathname != "/"
 		? pageName + " | " + siteName
 		: siteName;
+const requireTOC = frontmatter?.requireTOC;
 ---
 
 <!doctype html>
-<html lang="ja">
+<html lang="ja" transition:animate={fade({ duration: "2s" })}>
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="description" content="Astro description" />
@@ -29,7 +30,9 @@ const pageTitle =
 			{pageName && <h1>{pageName}</h1>}
 			<slot />
 		</main>
+		{requireTOC && <TOC headings={headings} />}
 		<script>
+			import "../scripts/navigation.js";
 			import "../scripts/menu.js";
 		</script>
 	</body>

@@ -27,3 +27,23 @@ function toggleMenu(menu, hamburger) {
 
 //initMenu();
 document.addEventListener("astro:page-load", initMenu);
+
+document.addEventListener("astro:before-preparation", () => {
+    console.log("astro:before-preparation");
+})
+
+document.addEventListener("astro:after-preparation", () => {
+    console.log("astro:after-preparation");
+})
+
+document.addEventListener("astro:before-swap", () => {
+    console.log("astro:before-swap");
+})
+
+document.addEventListener("astro:after-swap", () => {
+    console.log("astro:after-swap");
+})
+
+document.addEventListener("astro:page-load", () => {
+    console.log("astro:page-load");
+})

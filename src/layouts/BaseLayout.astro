@@ -3,10 +3,13 @@ import { ViewTransitions } from "astro:transitions";
 import Menu from "../components/Menu.astro";
 import "../styles/global.css";
 
-const { title } = Astro.props || Astro.props.frontmatter;
+const { title, frontmatter, headings } = Astro.props;
+const pageName = title || frontmatter.title;
 const siteName = "池田大輝オフィシャルウェブサイト";
 const pageTitle =
-	title && Astro.url.pathname != "/" ? title + " | " + siteName : siteName;
+	pageName && Astro.url.pathname != "/"
+		? pageName + " | " + siteName
+		: siteName;
 ---
 
 <!doctype html>
@@ -23,7 +26,7 @@ const pageTitle =
 	<body>
 		<Menu />
 		<main>
-			{title && <h1>{title}</h1>}
+			{pageName && <h1>{pageName}</h1>}
 			<slot />
 		</main>
 		<script>

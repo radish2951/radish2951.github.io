@@ -5,25 +5,25 @@ const { href, text } = Astro.props;
 <p><a href={href}>{text}</a></p>
 
 <style>
-    a {
-        text-decoration: none;
-        display: inline-block;
-        padding: 20px;
-        color: var(--button-color);
-        font-weight: bold;
-        border-radius: 10px;
-        box-sizing: border-box;
-        border: 1.5px solid var(--button-color);
-        transition: all 0.1s;
+  a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px;
+    color: var(--button-color);
+    font-weight: bold;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 1.5px solid var(--button-color);
+    transition: all 0.1s;
 
-        &:hover {
-            background: var(--button-color);
-            color: white;
-        }
+    &:hover {
+      background: var(--button-color);
+      color: white;
     }
+  }
 
-    p {
-        text-align: center;
-        margin-block: 30px;
-    }
+  p {
+    text-align: center;
+    margin-block: 30px;
+  }
 </style>

@@ -1,16 +1,17 @@
 :root {
-    --a-color: rgb(216, 39, 77);
-    --a-hover: rgb(39, 183, 255);
-    --button-color: #000000;
-    --color: black;
-    --width: 1000px;
+  --a-color: rgb(216, 39, 77);
+  --a-hover: rgb(39, 183, 255);
+  --button-color: #000000;
+  --color: black;
+  --width: 1000px;
 }
 
 body {
-    font-family: "Yu Gothic", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "Osaka", "MS PGothic", "ＭＳ Ｐゴシック", sans-serif;
-    color: var(--color);
-    margin: 0;
-    padding: 0;
+  font-family: "Yu Gothic", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "Osaka", "MS PGothic", "ＭＳ Ｐゴシック",
+    sans-serif;
+  color: var(--color);
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;

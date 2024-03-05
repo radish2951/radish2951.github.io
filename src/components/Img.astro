@@ -10,7 +10,7 @@ interface Props {
 }
 
 const { src, alt, class: className, caption } = Astro.props;
-const images = import.meta.glob<{ default: ImageMetadata }>("/src/images/*.{jpeg,jpg,png,gif,JPEG,JPG,PNG,GIF}");
+const images = import.meta.glob<{ default: ImageMetadata }>("/src/images/**/*.{jpeg,jpg,png,gif,JPEG,JPG,PNG,GIF}");
 
 // ファイルがローカルに存在するかどうか
 const isLocal = !!images[src];

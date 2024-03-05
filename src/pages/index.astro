@@ -2,16 +2,22 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Comment from "../components/Comment.astro";
 import Button from "../components/Button.astro";
+import Image from "astro/components/Image.astro";
+
+import imageAoi from "../images/aoi.png";
+import imageMio from "../images/mio.png";
+import imageHatsune from "../images/hatsune.png";
+import imageHaruka from "../images/haruka.png";
 ---
 
 <BaseLayout title="池田大輝の公式サイトへようこそ！">
   <div class="welcome character-comment">
     <p>私たちが案内します！</p>
     <div>
-      <img src="https://blooming-spectrum.com/sakurairo-tetraprism/img/aoi.png" />
-      <img src="https://blooming-spectrum.com/sakurairo-tetraprism/img/mio.png" />
-      <img src="https://blooming-spectrum.com/sakurairo-tetraprism/img/hatsune.png" />
-      <img src="https://blooming-spectrum.com/sakurairo-tetraprism/img/haruka.png" />
+      <Image src={imageAoi} alt="柏木葵" />
+      <Image src={imageMio} alt="明石澪" />
+      <Image src={imageHatsune} alt="須磨初音" />
+      <Image src={imageHaruka} alt="桐咲春花" />
     </div>
   </div>
 

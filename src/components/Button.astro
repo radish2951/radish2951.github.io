@@ -16,6 +16,9 @@ const { href } = Astro.props;
     border: 1.5px solid var(--button-color);
     transition: all 0.1s;
 
+    &:visited {
+      color: var(--button-color);
+    }
     &:hover {
       background: var(--button-color);
       color: white;
@@ -24,6 +27,6 @@ const { href } = Astro.props;
 
   p {
     text-align: center;
-    margin-block: 30px;
+    margin-block: calc(var(--margin-block) * 2);
   }
 </style>

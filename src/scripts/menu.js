@@ -1,5 +1,4 @@
 function initMenu() {
-  console.log("initmenu");
   document.getElementById("hamburger").addEventListener("click", (e) => {
     const menu = document.getElementById("navbar-links");
     const hamburger = e.target;

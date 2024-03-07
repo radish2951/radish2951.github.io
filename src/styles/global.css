@@ -1,9 +1,9 @@
 :root {
   --a-color: rgb(216, 39, 77);
-  --a-hover: rgb(39, 183, 255);
-  --button-color: #000000;
+  --button-color: var(--a-color);
   --color: black;
   --width: 1000px;
+  --margin-block: 1.3em;
 }
 
 body {
@@ -18,36 +18,45 @@ body {
   flex-direction: row-reverse;
 }
 
+a {
+  color: var(--a-color);
+  &:hover {
+    color: white;
+    background: var(--a-color);
+  }
+}
+
+ul {
+  margin: 0;
+}
+
 main {
   max-width: var(--width);
   width: 100%;
   margin: 0;
   padding: 2%;
   box-sizing: border-box;
-}
 
-main > * {
-  margin-block-start: 2%;
-}
-
-a {
-  color: var(--a-color);
-
-  &:visited {
-    color: var(--a-color);
+  & > * {
+    margin-block: var(--margin-block);
   }
 
-  &:hover {
-    color: var(--a-hover);
+  h1 {
+    text-align: center;
+    font-size: 2.7em;
   }
-}
 
-main {
+  h2 {
+    font-size: 2em;
+    padding-block-start: 3em; /* 移動したときヘッダーで隠れないためにmarginではなくpadding */
+  }
+  h3 {
+    margin-block-start: calc(var(--margin-block) * 1.5);
+  }
   iframe {
     width: 100%;
     height: auto;
     aspect-ratio: 16 / 9;
-    margin-block-start: 2%;
   }
 
   img {
@@ -56,7 +65,6 @@ main {
     width: auto;
     max-width: 100%;
     display: block;
-    margin-block-start: 2%;
   }
 
   div:has(img.small) {
@@ -71,37 +79,7 @@ main {
     margin: 0;
   }
 
-  hr {
-    margin-block: 3em;
+  aside {
+    margin-block: calc(var(--margin-block) * 2);
   }
-}
-
-p {
-  margin: 0;
-  margin-block-start: 2%;
-}
-
-h1 {
-  text-align: center;
-  font-size: 39px;
-}
-
-h2 {
-  font-size: 30px;
-  padding-block-start: 70px;
-}
-
-h3,
-h4 {
-  margin-block-start: 50px;
-}
-
-h3 {
-  font-size: 24px;
-  border-bottom: 1px solid;
-}
-
-ul {
-  margin: 0;
-  margin-block-start: 2%;
 }

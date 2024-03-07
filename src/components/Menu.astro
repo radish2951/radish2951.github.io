@@ -1,10 +1,11 @@
 <header>
   <div id="site-name"><a href="/">池田大輝 / Daiki Ikeda</a></div>
   <nav>
-    <button id="hamburger">menu</button>
+    <button id="hamburger">☰</button>
     <ul id="navbar-links" class="hidden">
-      <li><a href="/works">作品集</a></li>
+      <li><a href="/news">お知らせ</a></li>
       <li><a href="/profile">プロフィール</a></li>
+      <li><a href="/works">作品集</a></li>
       <li><a href="/illustrations">イラスト</a></li>
       <li><a href="/contact">ご連絡</a></li>
     </ul>
@@ -23,8 +24,25 @@
     z-index: 10000;
     background: rgba(255, 255, 255, 0.95);
   }
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      color: white;
+      background: var(--a-color);
+    }
+  }
+
   #site-name {
     font-size: 1.3rem;
+    a {
+      color: var(--color);
+      &:hover {
+        color: var(--a-color);
+        background: none;
+      }
+    }
   }
   nav {
     text-align: right;
@@ -42,27 +60,17 @@
     padding: 0;
     font-weight: bold;
   }
-  a {
-    text-decoration: none;
-    color: var(--color);
-    &:visited {
-      color: var(--color);
-    }
-    &:hover {
-      color: white;
-      background: var(--color);
-    }
-  }
   #hamburger {
     display: none; /* デフォルトでは非表示 */
     cursor: pointer;
-    font-size: 1.5rem;
+    font-size: 4rem;
     padding: 0;
     background: none;
     border: none;
+    color: var(--a-color);
   }
   #hamburger.clicked {
-    background: var(--color);
+    background: var(--a-color);
     color: white;
   }
   /* スクリーンサイズが600px以下の場合 */
@@ -96,6 +104,7 @@
       display: inline-block; /* ハンバーガーアイコンを表示 */
       position: relative;
       z-index: 200000;
+      top: -1rem;
     }
   }
 </style>

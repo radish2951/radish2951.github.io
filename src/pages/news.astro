@@ -1,0 +1,15 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Post from "../components/Post.astro";
+
+const posts = await getCollection("news");
+---
+
+<BaseLayout title="お知らせ">
+  {
+    posts
+      .sort((post1, post2) => new Date(post2.data.date).getTime() - new Date(post1.data.date).getTime())
+      .map((post) => <Post post={post} />)
+  }
+</BaseLayout>

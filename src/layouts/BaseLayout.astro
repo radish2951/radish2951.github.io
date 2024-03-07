@@ -7,7 +7,7 @@ const { title, frontmatter, headings } = Astro.props;
 const pageName = title || frontmatter?.title;
 const siteName = "池田大輝オフィシャルウェブサイト";
 const pageTitle = pageName && Astro.url.pathname != "/" ? pageName + " / " + siteName : siteName;
-const requireTOC = frontmatter?.requireTOC;
+const toc = frontmatter?.toc;
 ---
 
 <!doctype html>
@@ -27,7 +27,7 @@ const requireTOC = frontmatter?.requireTOC;
       {pageName && <h1>{pageName}</h1>}
       <slot />
     </main>
-    {requireTOC && <TOC headings={headings} />}
+    {toc && <TOC headings={headings} />}
     <Footer />
     <script>
       import "../scripts/navigation.js";

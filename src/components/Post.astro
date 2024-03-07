@@ -1,0 +1,11 @@
+---
+const { post } = Astro.props;
+const { render } = post;
+const { Content } = await render();
+---
+
+<article>
+  <h2>{post.data.title}</h2>
+  <time>{post.data.date}</time>
+  <Content />
+</article>

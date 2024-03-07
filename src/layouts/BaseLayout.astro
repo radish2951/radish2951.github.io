@@ -1,11 +1,12 @@
 ---
 import Menu from "../components/Menu.astro";
 import TOC from "../components/TOC.astro";
+import Footer from "../components/Footer.astro";
 import "../styles/global.css";
 const { title, frontmatter, headings } = Astro.props;
 const pageName = title || frontmatter?.title;
 const siteName = "池田大輝オフィシャルウェブサイト";
-const pageTitle = pageName && Astro.url.pathname != "/" ? pageName + " | " + siteName : siteName;
+const pageTitle = pageName && Astro.url.pathname != "/" ? pageName + " / " + siteName : siteName;
 const requireTOC = frontmatter?.requireTOC;
 ---
 
@@ -15,7 +16,8 @@ const requireTOC = frontmatter?.requireTOC;
     <meta charset="UTF-8" />
     <meta name="description" content="Astro description" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <meta name="generator" content={Astro.generator} />
     <title>{pageTitle}</title>
   </head>
@@ -26,6 +28,7 @@ const requireTOC = frontmatter?.requireTOC;
       <slot />
     </main>
     {requireTOC && <TOC headings={headings} />}
+    <Footer />
     <script>
       import "../scripts/navigation.js";
       import "../scripts/menu.js";

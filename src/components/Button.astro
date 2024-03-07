@@ -1,8 +1,8 @@
 ---
-const { href, text } = Astro.props;
+const { href } = Astro.props;
 ---
 
-<p><a href={href}>{text}</a></p>
+<p><a href={href}><slot /></a></p>
 
 <style>
   a {

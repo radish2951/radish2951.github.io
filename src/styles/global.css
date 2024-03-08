@@ -5,6 +5,7 @@
   --button-color: var(--a-color);
   --width: 1000px;
   --margin-block: 1.3em;
+  --padding: 4%;
 }
 
 body {
@@ -35,7 +36,7 @@ main {
   max-width: var(--width);
   width: 100%;
   margin: 0;
-  padding: 2%;
+  padding: var(--padding);
   box-sizing: border-box;
 
   & > * {

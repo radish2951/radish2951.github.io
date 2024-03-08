@@ -1,7 +1,8 @@
 :root {
-  --a-color: rgb(216, 39, 77);
+  --color: #546965;
+  --a-color: rgb(255, 79, 117);
+  --b-color: #a2abb2;
   --button-color: var(--a-color);
-  --color: black;
   --width: 1000px;
   --margin-block: 1.3em;
 }
@@ -40,45 +41,56 @@ main {
   & > * {
     margin-block: var(--margin-block);
   }
-
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: normal;
+  }
   h1 {
     text-align: center;
-    font-size: 2.7em;
+    font-size: 1.6em;
   }
-
   h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     padding-block-start: 3em; /* 移動したときヘッダーで隠れないためにmarginではなくpadding */
   }
   h3 {
+    font-size: 1.3em;
     margin-block-start: calc(var(--margin-block) * 1.5);
+  }
+  h4 {
+    font-size: 1.1em;
   }
   iframe {
     width: 100%;
     height: auto;
     aspect-ratio: 16 / 9;
   }
-
   img {
     height: auto;
-    max-height: 80vh;
-    width: auto;
+    max-height: 72vh;
+    width: 100%;
     max-width: 100%;
     display: block;
+    object-fit: contain;
   }
-
   div:has(img.small) {
     display: flex;
     flex-wrap: wrap;
     gap: 5px;
   }
-
   img.small {
     flex: 1;
     width: 300px;
     margin: 0;
   }
-
+  figcaption {
+    color: var(--b-color);
+    text-align: center;
+  }
   aside {
     margin-block: calc(var(--margin-block) * 2);
   }

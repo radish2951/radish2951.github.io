@@ -37,12 +37,12 @@ const { headings } = Astro.props;
     font-size: 14px;
   }
   a {
-    color: gray;
-    &:visited {
-      color: gray;
-    }
+    color: var(--b-color);
   }
   li.current a {
-    color: rgb(216, 39, 77);
+    color: var(--a-color);
+    &:hover {
+      color: white;
+    }
   }
 </style>

@@ -5,7 +5,7 @@ import Footer from "../components/Footer.astro";
 import "../styles/global.css";
 const { title, frontmatter, headings } = Astro.props;
 const pageName = title || frontmatter?.title;
-const siteName = "池田大輝オフィシャルウェブサイト";
+const siteName = "池田大輝 / Daiki Ikeda オフィシャルウェブサイト";
 const pageTitle = pageName && Astro.url.pathname != "/" ? pageName + " / " + siteName : siteName;
 const toc = frontmatter?.toc;
 ---

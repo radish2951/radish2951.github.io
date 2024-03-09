@@ -1,5 +1,5 @@
 :root {
-  --color: #546965;
+  --color: #3c4949;
   --a-color: rgb(255, 79, 117);
   --b-color: #a2abb2;
   --button-color: var(--a-color);
@@ -55,11 +55,11 @@ main {
     font-size: 1.6em;
   }
   h2 {
-    font-size: 1.5em;
+    font-size: 1.6em;
     padding-block-start: 3em; /* 移動したときヘッダーで隠れないためにmarginではなくpadding */
   }
   h3 {
-    font-size: 1.3em;
+    font-size: 1.4em;
     margin-block-start: calc(var(--margin-block) * 1.5);
   }
   h4 {
@@ -69,6 +69,7 @@ main {
     width: 100%;
     height: auto;
     aspect-ratio: 16 / 9;
+    display: block;
   }
   img {
     height: auto;
@@ -78,15 +79,21 @@ main {
     display: block;
     object-fit: contain;
   }
-  div:has(img.small) {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
-  }
-  img.small {
-    flex: 1;
-    width: 300px;
-    margin: 0;
+  figure {
+    margin-inline: 0;
+    &:has(img.small) {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      img {
+        object-fit: cover;
+        &.small {
+          flex: 1;
+          width: 300px;
+          margin: 0;
+        }
+      }
+    }
   }
   figcaption {
     color: var(--b-color);

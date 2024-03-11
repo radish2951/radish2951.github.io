@@ -13,7 +13,7 @@ const description = "池田大輝のオフィシャルウェブサイトです�
 // Example: Construct a canonical URL using your production domain
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 // Example: Construct a URL for SEO meta tags using your current domain
-const ogImageURL = "/" + (ogImage ?? "ogp_01.jpg");
+const ogImageURL = new URL(ogImage ?? "ogp_01.jpg", Astro.site);
 ---
 
 <html lang="ja">

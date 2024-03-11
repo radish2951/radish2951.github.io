@@ -3,24 +3,48 @@ import Menu from "../components/Menu.astro";
 import TOC from "../components/TOC.astro";
 import Footer from "../components/Footer.astro";
 import "../styles/global.css";
-const { title, frontmatter, headings } = Astro.props;
+const { title, frontmatter, headings, ogImage } = Astro.props;
 const pageName = title || frontmatter?.title;
 const siteName = "池田大輝 / Daiki Ikeda オフィシャルウェブサイト";
 const pageTitle = pageName && Astro.url.pathname != "/" ? pageName + " / " + siteName : siteName;
 const toc = frontmatter?.toc;
+const description = "池田大輝のオフィシャルウェブサイトです。最新作『さくらいろテトラプリズム』2024年公開予定。";
+
+// Example: Construct a canonical URL using your production domain
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+// Example: Construct a URL for SEO meta tags using your current domain
+const ogImageURL = "/" + (ogImage ?? "ogp_01.jpg");
 ---
 
-<!doctype html>
 <html lang="ja">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Astro description" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <meta name="generator" content={Astro.generator} />
     <title>{pageTitle}</title>
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImageURL} />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content={canonicalURL} />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageURL} />
+
+    <!-- その他のSEO & パフォーマンス向上のためのタグ -->
+    <meta name="theme-color" content="#ff4f75" />
+    <link rel="canonical" href={canonicalURL} />
   </head>
+
   <body>
     <Menu />
     <main>

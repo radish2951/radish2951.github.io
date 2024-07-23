@@ -1,5 +1,4 @@
 ---
-import { ViewTransitions } from "astro:transitions";
 import Menu from "../components/Menu.astro";
 import TOC from "../components/TOC.astro";
 import Footer from "../components/Footer.astro";
@@ -45,9 +44,6 @@ const ogImageURL = new URL(ogImage ?? "ogp_01.jpg", Astro.site);
     <!-- その他のSEO & パフォーマンス向上のためのタグ -->
     <meta name="theme-color" content="#ff4f75" />
     <link rel="canonical" href={canonicalURL} />
-
-    <!-- トランジションを追加 -->
-    <ViewTransitions />
   </head>
 
   <body>

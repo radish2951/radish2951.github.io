@@ -6,4 +6,8 @@ import mdx from "@astrojs/mdx";
 export default defineConfig({
   integrations: [mdx()],
   site: "https://daiki.pink",
+  prefetch: {
+    prefetchAll: true,
+    defaultStrategy: 'viewport'
+  }
 });

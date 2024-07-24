@@ -25,13 +25,13 @@ const isLocal = !!images[src];
       {isLocal ? (
         <Image src={images[src]()} alt={alt} class={className} loading={loading} widths={widths} />
       ) : (
-        <Image src={src} alt={alt} class={className} inferSize={true} loading={loading} />
+        <Image src={src} alt={alt} class={className} inferSize={true} loading={loading} widths={widths} />
       )}
       <figcaption>{caption}</figcaption>
     </figure>
   ) : isLocal ? (
-    <Image src={images[src]()} alt={alt} class={className} loading={loading} />
+    <Image src={images[src]()} alt={alt} class={className} loading={loading} widths={widths} />
   ) : (
-    <Image src={src} alt={alt} class={className} inferSize={true} loading={loading} />
+    <Image src={src} alt={alt} class={className} inferSize={true} loading={loading} widths={widths} />
   )
 }

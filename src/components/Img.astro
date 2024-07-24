@@ -7,9 +7,10 @@ interface Props {
   alt: string;
   class?: string;
   caption?: string;
+  loading?: "eager" | "lazy";
 }
 
-const { src, alt, class: className, caption } = Astro.props;
+const { src, alt, class: className, caption, loading } = Astro.props;
 const images = import.meta.glob<{ default: ImageMetadata }>("/src/images/**/*.{jpeg,jpg,png,gif,JPEG,JPG,PNG,GIF}");
 
 // ファイルがローカルに存在するかどうか
@@ -20,15 +21,15 @@ const isLocal = !!images[src];
   caption ? (
     <figure>
       {isLocal ? (
-        <Image src={images[src]()} alt={alt} class={className} />
+        <Image src={images[src]()} alt={alt} class={className} loading={loading} />
       ) : (
-        <Image src={src} alt={alt} class={className} inferSize={true} />
+        <Image src={src} alt={alt} class={className} inferSize={true} loading={loading} />
       )}
       <figcaption>{caption}</figcaption>
     </figure>
   ) : isLocal ? (
-    <Image src={images[src]()} alt={alt} class={className} />
+    <Image src={images[src]()} alt={alt} class={className} loading={loading} />
   ) : (
-    <Image src={src} alt={alt} class={className} inferSize={true} />
+    <Image src={src} alt={alt} class={className} inferSize={true} loading={loading} />
   )
 }

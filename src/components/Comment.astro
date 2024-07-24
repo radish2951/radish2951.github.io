@@ -31,7 +31,7 @@ switch (character) {
 
 <div class="character-comment">
   <div class="character">
-    <Image src={src} alt={characterName} loading="eager" />
+    <Image src={src} alt={characterName} loading="eager" widths={[64, 128]} />
     <div class="character-name">{characterName}</div>
   </div>
   <div class="character-text"><slot /></div>

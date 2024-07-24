@@ -9,14 +9,19 @@ import Img from "../components/Img.astro";
   <div class="welcome">
     <p>私たちが案内します！</p>
     <div>
-      <Img src="/src/images/aoi.png" alt="柏木葵" loading="eager" />
-      <Img src="/src/images/mio.png" alt="明石澪" loading="eager" />
-      <Img src="/src/images/hatsune.png" alt="須磨初音" loading="eager" />
-      <Img src="/src/images/haruka.png" alt="桐咲春花" loading="eager" />
+      <Img src="/src/images/aoi.png" alt="柏木葵" loading="eager" widths={[320, 640]} />
+      <Img src="/src/images/mio.png" alt="明石澪" loading="eager" widths={[320, 640]} />
+      <Img src="/src/images/hatsune.png" alt="須磨初音" loading="eager" widths={[320, 640]} />
+      <Img src="/src/images/haruka.png" alt="桐咲春花" loading="eager" widths={[320, 640]} />
     </div>
   </div>
   <h2>最新作『さくらいろテトラプリズム』鋭意制作中！</h2>
-  <Img src="/src/images/tetra_main_visual.jpg" alt="『さくらいろテトラプリズム』キービジュアル" loading="eager" />
+  <Img
+    src="/src/images/tetra_main_visual.jpg"
+    alt="『さくらいろテトラプリズム』キービジュアル"
+    loading="eager"
+    widths={[480, 960]}
+  />
   <p>
     恋愛ファンタジーアドベンチャーゲーム『さくらいろテトラプリズム』。2024年公開に向けて一生懸命つくっています！
     ご期待ください！

@@ -68,8 +68,10 @@ main {
   h4 {
     font-size: 1.1em;
   }
-  iframe {
+  iframe,
+  lite-youtube {
     width: 100%;
+    max-width: none;
     height: auto;
     aspect-ratio: 16 / 9;
     display: block;

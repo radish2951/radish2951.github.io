@@ -45,8 +45,13 @@ const ogImageURL = new URL(ogImage ?? "ogp_01.jpg", Astro.site);
     <meta name="theme-color" content="#ff4f75" />
     <link rel="canonical" href={canonicalURL} />
 
-    <link href="/fonts/GenJyuu/normal/GenJyuuGothicL-Normal.css" type="text/css" rel="stylesheet" />
-    <link href="/fonts/GenJyuu/bold/GenJyuuGothicL-Bold.css" type="text/css" rel="stylesheet" />
+    <link
+      href="/fonts/GenJyuu/normal/GenJyuuGothicL-Normal.css"
+      rel="stylesheet"
+      media="print"
+      onload="this.media='all'"
+    />
+    <link href="/fonts/GenJyuu/bold/GenJyuuGothicL-Bold.css" rel="stylesheet" media="print" onload="this.media='all'" />
 
     <!-- Include the CSS & JS.. (This could be direct from the package or bundled) -->
     <link rel="stylesheet" href="/lite-youtube-embed/src/lite-yt-embed.css" />

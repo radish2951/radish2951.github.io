@@ -55,7 +55,7 @@ const ogImageURL = new URL(ogImage ?? "ogp_01.jpg", Astro.site);
 
     <!-- Include the CSS & JS.. (This could be direct from the package or bundled) -->
     <link rel="stylesheet" href="/lite-youtube-embed/src/lite-yt-embed.css" />
-    <script src="/lite-youtube-embed/src/lite-yt-embed.js" is:inline></script>
+    <script src="/lite-youtube-embed/src/lite-yt-embed.js" defer is:inline></script>
   </head>
 
   <body>

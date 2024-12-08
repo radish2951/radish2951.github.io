@@ -7,9 +7,13 @@ import "../styles/global.css";
 const { title, frontmatter, headings, ogImage } = Astro.props;
 const pageName = title || frontmatter?.title;
 const siteName = "池田大輝 / Daiki Ikeda オフィシャルウェブサイト";
-const pageTitle = pageName && Astro.url.pathname != "/" ? pageName + " / " + siteName : siteName;
+const pageTitle =
+	pageName && Astro.url.pathname !== "/"
+		? `${pageName} / ${siteName}`
+		: siteName;
 const toc = frontmatter?.toc;
-const description = "池田大輝のオフィシャルウェブサイトです。最新作『さくらいろテトラプリズム』2024年公開予定。";
+const description =
+	"池田大輝のオフィシャルウェブサイトです。最新作『さくらいろテトラプリズム』2024年公開予定。";
 
 // Example: Construct a canonical URL using your production domain
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);

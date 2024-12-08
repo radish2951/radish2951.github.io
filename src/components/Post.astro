@@ -1,7 +1,7 @@
 ---
+import { render } from "astro:content";
 const { post } = Astro.props;
-const { render } = post;
-const { Content } = await render();
+const { Content } = await render(post);
 ---
 
 <article>

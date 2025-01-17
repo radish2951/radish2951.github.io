@@ -5,15 +5,9 @@ import Button from "../components/Button.astro";
 import Img from "../components/Img.astro";
 ---
 
-<BaseLayout title="池田大輝のウェブサイトへようこそ！">
+<BaseLayout title="ここは劇場。主役はあなた。">
   <div class="welcome">
-    <p>私たちが案内します！</p>
-    <div>
-      <Img src="/src/images/aoi.png" alt="柏木葵" loading="eager" widths={[320, 640]} />
-      <Img src="/src/images/mio.png" alt="明石澪" loading="eager" widths={[320, 640]} />
-      <Img src="/src/images/hatsune.png" alt="須磨初音" loading="eager" widths={[320, 640]} />
-      <Img src="/src/images/haruka.png" alt="桐咲春花" loading="eager" widths={[320, 640]} />
-    </div>
+    <Img src="/src/images/adobe-max-2016.jpg" alt="main" class="hero" />
   </div>
   <h2>最新作『さくらいろテトラプリズム』をリリースしました！</h2>
   <Img
@@ -107,16 +101,9 @@ import Img from "../components/Img.astro";
       text-align: center;
       font-size: 1.2rem;
     }
-    div {
-      display: flex;
-      justify-content: center;
-      overflow: hidden;
 
-      img {
-        margin-inline: -20%;
-        width: 63%;
-        max-height: none;
-      }
+    .hero {
+      width: 100%;
     }
   }
 </style>

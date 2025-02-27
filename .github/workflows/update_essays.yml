@@ -1,0 +1,47 @@
+name: Update Essay List
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 毎日午前0時（UTC）に実行
+  workflow_dispatch:    # 手動実行も可能
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリのチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Install xmlstarlet
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xmlstarlet
+
+      - name: RSSフィードから最新のエッセイを取得
+        run: |
+          # RSSフィードから最初の<item>内の<title>と<link>をパイプ区切りで取得
+          curl -s "https://sizu.me/radish2951/rss" | \
+            xmlstarlet sel -t -m "//item[1]" -v "title" -o "|" -v "link" -n > latest_essay.txt
+          echo "最新のエッセイ: $(cat latest_essay.txt)"
+
+      - name: MDXファイルの更新
+        run: |
+          IFS='|' read -r title link < latest_essay.txt
+          FILE="src/pages/essays.mdx"  # MDXファイルのパスを指定
+          # 既に同じリンクが存在する場合は更新しない
+          if grep -q "${link}" "$FILE"; then
+            echo "既に最新エッセイは登録済みです。"
+          else
+            # 「## その他いろいろ（しずかなインターネット）」の直後に新規エントリを追加
+            sed -i "/## その他いろいろ（しずかなインターネット）/a \n[${title}](${link})" "$FILE"
+          fi
+
+      - name: 変更のコミットとプッシュ
+        run: |
+          IFS='|' read -r title link < latest_essay.txt
+          # GitHub Actionsの固定ユーザー情報を設定（ベストプラクティス）
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add "$FILE"
+          git commit -m "エッセィ追加: ${title}" || echo "No changes to commit"
+          git push

@@ -34,7 +34,7 @@ jobs:
             echo "既に最新エッセイは登録済みです。"
           else
             # 見出しの直後にエントリを追加（改行を含む）
-            sed -i "s|^\(<!-- NEW_ESSAY_INSERTION_MARKER -->\)$|\1\n\n[${title}](${link})|" "$MDX_FILE"
+            sed -i "/NEW_ESSAY_INSERTION_MARKER/ s|$|\n\n[${title}](${link})|" "$MDX_FILE"
           fi
 
       - name: 変更のコミットとプッシュ

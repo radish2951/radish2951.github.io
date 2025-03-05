@@ -22,13 +22,12 @@ jobs:
       - name: RSSから最新エッセイを取得してMDX更新
         id: update_essay  # 後続ステップでアウトプットを参照するためのID
         run: |
-        
           # RSSフィードの内容を取得
           rss=$(curl -s "$RSS_URL")
           # 最初の <item> ブロックを抽出
           item=$(echo "$rss" | awk '/<item>/{flag=1} flag; /<\/item>/{flag=0; exit}')
           # <title>タグ内のCDATAセクションからタイトルを抽出
-          title=$(echo "$item" | grep -oP '<title>\s*<!\[CDATA\[\K.*?(?=\]\]>)')
+          title=$(echo "$item" | grep -oP '(?<=<title>).*?(?=</title>)' | sed 's/<!\[CDATA\[//g; s/\]\]>//g')
           # <link>タグからリンクを抽出
           link=$(echo "$item" | grep -oP '(?<=<link>).*?(?=</link>)')
           
@@ -42,7 +41,6 @@ jobs:
 
       - name: コミットとプッシュ
         run: |
-        
           # GitHub Actions用のGitユーザー設定
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'

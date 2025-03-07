@@ -6,7 +6,7 @@ name: エッセィリストを更新
 
 on:
   schedule:
-    - cron: '*/60 * * * *'  # 1時間ごとに実行
+    - cron: '0 19 * * *'  # JSTの午前4時（UTCの19時）
   workflow_dispatch:  # 手動実行を可能にする
 
 env:

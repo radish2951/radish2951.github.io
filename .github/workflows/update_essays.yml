@@ -30,10 +30,14 @@ jobs:
           title=$(echo "$item" | grep -oP '(?<=<title>).*?(?=</title>)' | sed 's/<!\[CDATA\[//g; s/\]\]>//g')
           # <link>タグからリンクを抽出
           link=$(echo "$item" | grep -oP '(?<=<link>).*?(?=</link>)')
+          # <pubDate>タグから公開日を抽出
+          pubDate=$(echo "$item" | grep -oP '(?<=<pubDate>).*?(?=</pubDate>)')
+          # RSSのpubDateをYYYY/MM/DD形式に変換（例：Mon, 24 Mar 2025 12:16:06 GMT → 2025/03/24）
+          formatted_date=$(date -d "$pubDate" "+%Y/%m/%d")
           
           # MDXファイルに同じリンクが存在しない場合、指定マーカーの直後に追記
           if ! grep -q "${link}" "$MDX_FILE"; then
-            sed -i "/NEW_ESSAY_INSERTION_MARKER/ s|$|\n\n[${title}](${link})|" "$MDX_FILE"
+            sed -i "/NEW_ESSAY_INSERTION_MARKER/ s|$|\n\n[${title}](${link}) ${formatted_date}|" "$MDX_FILE"
           fi
 
           # 後続ステップでタイトルを利用できるようアウトプットに設定

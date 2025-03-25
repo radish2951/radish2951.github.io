@@ -1,0 +1,57 @@
+name: エッセィリストに日付追加（コピー作成）
+
+on:
+  workflow_dispatch:  # 手動実行のみ
+
+env:
+  MDX_FILE: src/pages/essays.mdx
+  UPDATED_MDX_FILE: src/pages/essays_updated.mdx
+
+jobs:
+  update_dates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: MDXファイルのコピー作成
+        run: |
+          cp "$MDX_FILE" "$UPDATED_MDX_FILE"
+          echo "コピー元: $MDX_FILE → コピー先: $UPDATED_MDX_FILE"
+
+      - name: 各記事の更新日を取得してコピーに反映
+        run: |
+          # 一時ファイルに処理結果を出力する
+          tmpfile=$(mktemp)
+          # コピーされた MDX ファイルの各行をループ処理
+          while IFS= read -r line; do
+            # Markdownリンク形式、対象URLが posts 以下の場合に処理
+            if [[ $line =~ ^\[(.+)\]\((https://sizu\.me/radish2951/posts/[^)]+)\)([[:space:]]+.*)?$ ]]; then
+              title="${BASH_REMATCH[1]}"
+              url="${BASH_REMATCH[2]}"
+              # 該当記事のHTMLを取得し、<time>タグのdateTime属性から更新日を抽出（YYYY-MM-DD形式）
+              html=$(curl -s "$url")
+              updated_date=$(echo "$html" | grep -oP '(?<=<time dateTime=")[0-9]{4}-[0-9]{2}-[0-9]{2}')
+              if [ -n "$updated_date" ]; then
+                # 日付フォーマット変換：YYYY-MM-DD → YYYY/MM/DD
+                formatted_date=$(echo "$updated_date" | sed 's/-/\//g')
+                new_line="[$title]($url) $formatted_date"
+                echo "$new_line" >> "$tmpfile"
+              else
+                # 更新日が取得できない場合は元の行をそのまま利用
+                echo "$line" >> "$tmpfile"
+              fi
+            else
+              # 対象外の行はそのまま出力
+              echo "$line" >> "$tmpfile"
+            fi
+          done < "$UPDATED_MDX_FILE"
+          # 一時ファイルの内容でコピー先MDXファイルを更新
+          mv "$tmpfile" "$UPDATED_MDX_FILE"
+
+      - name: コミットとプッシュ（コピー版）
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add "$UPDATED_MDX_FILE"
+          git commit -m "エッセイ更新日付のコピー作成" || true
+          git push
